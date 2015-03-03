@@ -21,8 +21,8 @@
         "OBP": 0.39,
         "SLG": 0.549,
         "OPS": 0.94,
-        " Team ": "LAA",
-        " POS ": "CF"
+        "Team ": "LAA",
+        "POS ": "CF"
     },
     {
         "Name": "Miguel Cabrera",
@@ -46,8 +46,8 @@
         "OBP": 0.388,
         "SLG": 0.553,
         "OPS": 0.941,
-        " Team ": "DET",
-        " POS ": "1B,3B,DH"
+        "Team ": "DET",
+        "POS ": "1B,3B,DH"
     },
     {
         "Name": "Andrew McCutchen",
@@ -71,8 +71,8 @@
         "OBP": 0.393,
         "SLG": 0.52,
         "OPS": 0.913,
-        " Team ": "PIT",
-        " POS ": "CF"
+        "Team ": "PIT",
+        "POS ": "CF"
     },
     {
         "Name": "Giancarlo Stanton",
@@ -96,8 +96,8 @@
         "OBP": 0.375,
         "SLG": 0.547,
         "OPS": 0.922,
-        " Team ": "MIA",
-        " POS ": "RF"
+        "Team ": "MIA",
+        "POS ": "RF"
     },
     {
         "Name": "Jose Bautista",
@@ -121,8 +121,8 @@
         "OBP": 0.375,
         "SLG": 0.505,
         "OPS": 0.88,
-        " Team ": "TOR",
-        " POS ": "1B,CF,RF"
+        "Team ": "TOR",
+        "POS ": "1B,CF,RF"
     },
     {
         "Name": "Adam Jones",
@@ -146,8 +146,8 @@
         "OBP": 0.308,
         "SLG": 0.47,
         "OPS": 0.778,
-        " Team ": "BAL",
-        " POS ": "CF"
+        "Team ": "BAL",
+        "POS ": "CF"
     },
     {
         "Name": "Carlos Gomez",
@@ -171,8 +171,8 @@
         "OBP": 0.324,
         "SLG": 0.471,
         "OPS": 0.795,
-        " Team ": "MIL",
-        " POS ": "CF"
+        "Team ": "MIL",
+        "POS ": "CF"
     },
     {
         "Name": "Jose Altuve",
@@ -196,8 +196,8 @@
         "OBP": 0.347,
         "SLG": 0.418,
         "OPS": 0.764,
-        " Team ": "HOU",
-        " POS ": "2B"
+        "Team ": "HOU",
+        "POS ": "2B"
     },
     {
         "Name": "Paul Goldschmidt",
@@ -221,11 +221,11 @@
         "OBP": 0.386,
         "SLG": 0.529,
         "OPS": 0.915,
-        " Team ": "ARI",
-        " POS ": "1B"
+        "Team ": "ARI",
+        "POS ": "1B"
     },
     {
-        "Name": "Jose Abreu",
+        "Name": "Jose Dariel Abreu",
         "FPTS": 413,
         "PPPA": 0.67,
         "AB": 558,
@@ -246,8 +246,8 @@
         "OBP": 0.361,
         "SLG": 0.538,
         "OPS": 0.899,
-        " Team ": "CWS",
-        " POS ": "1B,DH"
+        "Team ": "CWS",
+        "POS ": "1B,DH"
     },
     {
         "Name": "Yasiel Puig",
@@ -271,8 +271,8 @@
         "OBP": 0.368,
         "SLG": 0.497,
         "OPS": 0.864,
-        " Team ": "LAD",
-        " POS ": "CF,RF"
+        "Team ": "LAD",
+        "POS ": "CF,RF"
     },
     {
         "Name": "Adrian Beltre",
@@ -296,8 +296,8 @@
         "OBP": 0.361,
         "SLG": 0.491,
         "OPS": 0.852,
-        " Team ": "TEX",
-        " POS ": "3B"
+        "Team ": "TEX",
+        "POS ": "3B"
     },
     {
         "Name": "Robinson Cano",
@@ -321,8 +321,8 @@
         "OBP": 0.367,
         "SLG": 0.464,
         "OPS": 0.831,
-        " Team ": "SEA",
-        " POS ": "2B"
+        "Team ": "SEA",
+        "POS ": "2B"
     },
     {
         "Name": "Michael Brantley",
@@ -346,8 +346,8 @@
         "OBP": 0.356,
         "SLG": 0.444,
         "OPS": 0.799,
-        " Team ": "CLE",
-        " POS ": "LF,CF"
+        "Team ": "CLE",
+        "POS ": "LF,CF"
     },
     {
         "Name": "Hunter Pence",
@@ -371,8 +371,8 @@
         "OBP": 0.327,
         "SLG": 0.436,
         "OPS": 0.762,
-        " Team ": "SF",
-        " POS ": "RF"
+        "Team ": "SF",
+        "POS ": "RF"
     },
     {
         "Name": "Josh Donaldson",
@@ -396,8 +396,8 @@
         "OBP": 0.344,
         "SLG": 0.478,
         "OPS": 0.822,
-        " Team ": "TOR",
-        " POS ": "3B"
+        "Team ": "TOR",
+        "POS ": "3B"
     },
     {
         "Name": "Jacoby Ellsbury",
@@ -421,8 +421,8 @@
         "OBP": 0.332,
         "SLG": 0.42,
         "OPS": 0.752,
-        " Team ": "NYY",
-        " POS ": "CF"
+        "Team ": "NYY",
+        "POS ": "CF"
     },
     {
         "Name": "Edwin Encarnacion",
@@ -446,8 +446,8 @@
         "OBP": 0.358,
         "SLG": 0.523,
         "OPS": 0.881,
-        " Team ": "TOR",
-        " POS ": "1B,DH"
+        "Team ": "TOR",
+        "POS ": "1B,DH"
     },
     {
         "Name": "Matt Holliday",
@@ -471,8 +471,8 @@
         "OBP": 0.357,
         "SLG": 0.451,
         "OPS": 0.808,
-        " Team ": "STL",
-        " POS ": "LF"
+        "Team ": "STL",
+        "POS ": "LF"
     },
     {
         "Name": "Ryan Braun",
@@ -496,8 +496,8 @@
         "OBP": 0.34,
         "SLG": 0.485,
         "OPS": 0.825,
-        " Team ": "MIL",
-        " POS ": "RF"
+        "Team ": "MIL",
+        "POS ": "RF"
     },
     {
         "Name": "Troy Tulowitzki",
@@ -521,8 +521,8 @@
         "OBP": 0.392,
         "SLG": 0.546,
         "OPS": 0.938,
-        " Team ": "COL",
-        " POS ": "SS"
+        "Team ": "COL",
+        "POS ": "SS"
     },
     {
         "Name": "Justin Upton",
@@ -546,8 +546,8 @@
         "OBP": 0.34,
         "SLG": 0.452,
         "OPS": 0.793,
-        " Team ": "SD",
-        " POS ": "LF,RF"
+        "Team ": "SD",
+        "POS ": "LF,RF"
     },
     {
         "Name": "Buster Posey",
@@ -571,8 +571,8 @@
         "OBP": 0.37,
         "SLG": 0.477,
         "OPS": 0.848,
-        " Team ": "SF",
-        " POS ": "C,1B"
+        "Team ": "SF",
+        "POS ": "C,1B"
     },
     {
         "Name": "Hanley Ramirez",
@@ -596,8 +596,8 @@
         "OBP": 0.361,
         "SLG": 0.483,
         "OPS": 0.843,
-        " Team ": "BOS",
-        " POS ": "SS"
+        "Team ": "BOS",
+        "POS ": "SS"
     },
     {
         "Name": "Anthony Rendon",
@@ -621,8 +621,8 @@
         "OBP": 0.348,
         "SLG": 0.455,
         "OPS": 0.803,
-        " Team ": "WSH",
-        " POS ": "2B,3B"
+        "Team ": "WSH",
+        "POS ": "2B,3B"
     },
     {
         "Name": "Anthony Rizzo",
@@ -646,8 +646,8 @@
         "OBP": 0.358,
         "SLG": 0.508,
         "OPS": 0.866,
-        " Team ": "CHC",
-        " POS ": "1B"
+        "Team ": "CHC",
+        "POS ": "1B"
     },
     {
         "Name": "Alex Gordon",
@@ -671,8 +671,8 @@
         "OBP": 0.336,
         "SLG": 0.429,
         "OPS": 0.765,
-        " Team ": "KC",
-        " POS ": "LF"
+        "Team ": "KC",
+        "POS ": "LF"
     },
     {
         "Name": "Jose Reyes",
@@ -696,8 +696,8 @@
         "OBP": 0.338,
         "SLG": 0.407,
         "OPS": 0.745,
-        " Team ": "TOR",
-        " POS ": "SS"
+        "Team ": "TOR",
+        "POS ": "SS"
     },
     {
         "Name": "Yoenis Cespedes",
@@ -721,8 +721,8 @@
         "OBP": 0.308,
         "SLG": 0.453,
         "OPS": 0.761,
-        " Team ": "DET",
-        " POS ": "LF,DH"
+        "Team ": "DET",
+        "POS ": "LF,DH"
     },
     {
         "Name": "Corey Dickerson",
@@ -746,8 +746,8 @@
         "OBP": 0.346,
         "SLG": 0.528,
         "OPS": 0.874,
-        " Team ": "COL",
-        " POS ": "LF,CF"
+        "Team ": "COL",
+        "POS ": "LF,CF"
     },
     {
         "Name": "Ian Kinsler",
@@ -771,8 +771,8 @@
         "OBP": 0.313,
         "SLG": 0.409,
         "OPS": 0.723,
-        " Team ": "DET",
-        " POS ": "2B"
+        "Team ": "DET",
+        "POS ": "2B"
     },
     {
         "Name": "Bryce Harper",
@@ -796,8 +796,8 @@
         "OBP": 0.355,
         "SLG": 0.48,
         "OPS": 0.835,
-        " Team ": "WSH",
-        " POS ": "LF,CF,RF"
+        "Team ": "WSH",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Ian Desmond",
@@ -821,8 +821,8 @@
         "OBP": 0.315,
         "SLG": 0.442,
         "OPS": 0.757,
-        " Team ": "WSH",
-        " POS ": "SS"
+        "Team ": "WSH",
+        "POS ": "SS"
     },
     {
         "Name": "Starling Marte",
@@ -846,8 +846,8 @@
         "OBP": 0.321,
         "SLG": 0.44,
         "OPS": 0.761,
-        " Team ": "PIT",
-        " POS ": "LF,CF"
+        "Team ": "PIT",
+        "POS ": "LF,CF"
     },
     {
         "Name": "Victor Martinez",
@@ -871,8 +871,8 @@
         "OBP": 0.375,
         "SLG": 0.485,
         "OPS": 0.86,
-        " Team ": "DET",
-        " POS ": "1B,DH"
+        "Team ": "DET",
+        "POS ": "1B,DH"
     },
     {
         "Name": "Freddie Freeman",
@@ -896,8 +896,8 @@
         "OBP": 0.371,
         "SLG": 0.476,
         "OPS": 0.847,
-        " Team ": "ATL",
-        " POS ": "1B"
+        "Team ": "ATL",
+        "POS ": "1B"
     },
     {
         "Name": "Carlos Gonzalez",
@@ -921,8 +921,8 @@
         "OBP": 0.338,
         "SLG": 0.502,
         "OPS": 0.84,
-        " Team ": "COL",
-        " POS ": "LF,RF"
+        "Team ": "COL",
+        "POS ": "LF,RF"
     },
     {
         "Name": "Nelson Cruz",
@@ -946,8 +946,8 @@
         "OBP": 0.314,
         "SLG": 0.463,
         "OPS": 0.777,
-        " Team ": "SEA",
-        " POS ": "LF,RF,DH"
+        "Team ": "SEA",
+        "POS ": "LF,RF,DH"
     },
     {
         "Name": "Adrian Gonzalez",
@@ -971,8 +971,8 @@
         "OBP": 0.343,
         "SLG": 0.461,
         "OPS": 0.804,
-        " Team ": "LAD",
-        " POS ": "1B"
+        "Team ": "LAD",
+        "POS ": "1B"
     },
     {
         "Name": "Chris Davis",
@@ -996,8 +996,8 @@
         "OBP": 0.322,
         "SLG": 0.48,
         "OPS": 0.802,
-        " Team ": "BAL",
-        " POS ": "1B,3B"
+        "Team ": "BAL",
+        "POS ": "1B,3B"
     },
     {
         "Name": "Carlos Santana",
@@ -1021,8 +1021,8 @@
         "OBP": 0.367,
         "SLG": 0.442,
         "OPS": 0.81,
-        " Team ": "CLE",
-        " POS ": "C,1B,3B,DH"
+        "Team ": "CLE",
+        "POS ": "C,1B,3B,DH"
     },
     {
         "Name": "Matt Kemp",
@@ -1046,8 +1046,8 @@
         "OBP": 0.345,
         "SLG": 0.474,
         "OPS": 0.818,
-        " Team ": "SD",
-        " POS ": "LF,CF,RF"
+        "Team ": "SD",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Jason Heyward",
@@ -1071,8 +1071,8 @@
         "OBP": 0.345,
         "SLG": 0.429,
         "OPS": 0.774,
-        " Team ": "STL",
-        " POS ": "RF"
+        "Team ": "STL",
+        "POS ": "RF"
     },
     {
         "Name": "Melky Cabrera",
@@ -1096,8 +1096,8 @@
         "OBP": 0.347,
         "SLG": 0.444,
         "OPS": 0.791,
-        " Team ": "CWS",
-        " POS ": "LF"
+        "Team ": "CWS",
+        "POS ": "LF"
     },
     {
         "Name": "Jayson Werth",
@@ -1121,8 +1121,8 @@
         "OBP": 0.375,
         "SLG": 0.459,
         "OPS": 0.834,
-        " Team ": "WSH",
-        " POS ": "RF"
+        "Team ": "WSH",
+        "POS ": "RF"
     },
     {
         "Name": "Evan Longoria",
@@ -1146,8 +1146,8 @@
         "OBP": 0.328,
         "SLG": 0.438,
         "OPS": 0.766,
-        " Team ": "TB",
-        " POS ": "3B"
+        "Team ": "TB",
+        "POS ": "3B"
     },
     {
         "Name": "George Springer",
@@ -1171,8 +1171,8 @@
         "OBP": 0.327,
         "SLG": 0.46,
         "OPS": 0.788,
-        " Team ": "HOU",
-        " POS ": "CF,RF"
+        "Team ": "HOU",
+        "POS ": "CF,RF"
     },
     {
         "Name": "Jay Bruce",
@@ -1196,8 +1196,8 @@
         "OBP": 0.311,
         "SLG": 0.439,
         "OPS": 0.75,
-        " Team ": "CIN",
-        " POS ": "RF"
+        "Team ": "CIN",
+        "POS ": "RF"
     },
     {
         "Name": "Todd Frazier",
@@ -1221,8 +1221,8 @@
         "OBP": 0.321,
         "SLG": 0.442,
         "OPS": 0.763,
-        " Team ": "CIN",
-        " POS ": "1B,3B"
+        "Team ": "CIN",
+        "POS ": "1B,3B"
     },
     {
         "Name": "Jonathan Lucroy",
@@ -1246,8 +1246,8 @@
         "OBP": 0.356,
         "SLG": 0.457,
         "OPS": 0.813,
-        " Team ": "MIL",
-        " POS ": "C,1B"
+        "Team ": "MIL",
+        "POS ": "C,1B"
     },
     {
         "Name": "Dustin Pedroia",
@@ -1271,8 +1271,8 @@
         "OBP": 0.346,
         "SLG": 0.4,
         "OPS": 0.746,
-        " Team ": "BOS",
-        " POS ": "2B"
+        "Team ": "BOS",
+        "POS ": "2B"
     },
     {
         "Name": "David Ortiz",
@@ -1296,8 +1296,8 @@
         "OBP": 0.367,
         "SLG": 0.507,
         "OPS": 0.874,
-        " Team ": "BOS",
-        " POS ": "1B,DH"
+        "Team ": "BOS",
+        "POS ": "1B,DH"
     },
     {
         "Name": "Brian Dozier",
@@ -1321,8 +1321,8 @@
         "OBP": 0.322,
         "SLG": 0.402,
         "OPS": 0.724,
-        " Team ": "MIN",
-        " POS ": "2B"
+        "Team ": "MIN",
+        "POS ": "2B"
     },
     {
         "Name": "Christian Yelich",
@@ -1346,8 +1346,8 @@
         "OBP": 0.35,
         "SLG": 0.408,
         "OPS": 0.759,
-        " Team ": "MIA",
-        " POS ": "LF,CF"
+        "Team ": "MIA",
+        "POS ": "LF,CF"
     },
     {
         "Name": "Kyle Seager",
@@ -1371,8 +1371,8 @@
         "OBP": 0.327,
         "SLG": 0.432,
         "OPS": 0.76,
-        " Team ": "SEA",
-        " POS ": "3B"
+        "Team ": "SEA",
+        "POS ": "3B"
     },
     {
         "Name": "Alex Rios",
@@ -1396,8 +1396,8 @@
         "OBP": 0.311,
         "SLG": 0.414,
         "OPS": 0.725,
-        " Team ": "KC",
-        " POS ": "RF"
+        "Team ": "KC",
+        "POS ": "RF"
     },
     {
         "Name": "Denard Span",
@@ -1421,8 +1421,8 @@
         "OBP": 0.339,
         "SLG": 0.395,
         "OPS": 0.733,
-        " Team ": "WSH",
-        " POS ": "CF"
+        "Team ": "WSH",
+        "POS ": "CF"
     },
     {
         "Name": "Matt Carpenter",
@@ -1446,8 +1446,8 @@
         "OBP": 0.369,
         "SLG": 0.414,
         "OPS": 0.783,
-        " Team ": "STL",
-        " POS ": "3B"
+        "Team ": "STL",
+        "POS ": "3B"
     },
     {
         "Name": "Brandon Moss",
@@ -1471,8 +1471,8 @@
         "OBP": 0.327,
         "SLG": 0.476,
         "OPS": 0.804,
-        " Team ": "CLE",
-        " POS ": "1B,LF,RF"
+        "Team ": "CLE",
+        "POS ": "1B,LF,RF"
     },
     {
         "Name": "Albert Pujols",
@@ -1496,8 +1496,8 @@
         "OBP": 0.329,
         "SLG": 0.456,
         "OPS": 0.785,
-        " Team ": "LAA",
-        " POS ": "1B,DH"
+        "Team ": "LAA",
+        "POS ": "1B,DH"
     },
     {
         "Name": "Daniel Murphy",
@@ -1521,8 +1521,8 @@
         "OBP": 0.324,
         "SLG": 0.398,
         "OPS": 0.722,
-        " Team ": "NYM",
-        " POS ": "2B,3B"
+        "Team ": "NYM",
+        "POS ": "2B,3B"
     },
     {
         "Name": "Torii Hunter",
@@ -1546,8 +1546,8 @@
         "OBP": 0.317,
         "SLG": 0.427,
         "OPS": 0.744,
-        " Team ": "MIN",
-        " POS ": "RF"
+        "Team ": "MIN",
+        "POS ": "RF"
     },
     {
         "Name": "Ryan Zimmerman",
@@ -1571,8 +1571,8 @@
         "OBP": 0.343,
         "SLG": 0.457,
         "OPS": 0.799,
-        " Team ": "WSH",
-        " POS ": "3B,LF"
+        "Team ": "WSH",
+        "POS ": "3B,LF"
     },
     {
         "Name": "Ben Zobrist",
@@ -1596,8 +1596,8 @@
         "OBP": 0.35,
         "SLG": 0.401,
         "OPS": 0.752,
-        " Team ": "OAK",
-        " POS ": "2B,SS,LF,CF,RF"
+        "Team ": "OAK",
+        "POS ": "2B,SS,LF,CF,RF"
     },
     {
         "Name": "Mark Trumbo",
@@ -1621,8 +1621,8 @@
         "OBP": 0.3,
         "SLG": 0.452,
         "OPS": 0.752,
-        " Team ": "ARI",
-        " POS ": "1B,LF"
+        "Team ": "ARI",
+        "POS ": "1B,LF"
     },
     {
         "Name": "Chris Carter",
@@ -1646,8 +1646,8 @@
         "OBP": 0.315,
         "SLG": 0.46,
         "OPS": 0.775,
-        " Team ": "HOU",
-        " POS ": "1B,LF,DH"
+        "Team ": "HOU",
+        "POS ": "1B,LF,DH"
     },
     {
         "Name": "Elvis Andrus",
@@ -1671,8 +1671,8 @@
         "OBP": 0.325,
         "SLG": 0.348,
         "OPS": 0.673,
-        " Team ": "TEX",
-        " POS ": "SS"
+        "Team ": "TEX",
+        "POS ": "SS"
     },
     {
         "Name": "Alexei Ramirez",
@@ -1696,8 +1696,8 @@
         "OBP": 0.301,
         "SLG": 0.387,
         "OPS": 0.687,
-        " Team ": "CWS",
-        " POS ": "SS"
+        "Team ": "CWS",
+        "POS ": "SS"
     },
     {
         "Name": "Charlie Blackmon",
@@ -1721,8 +1721,8 @@
         "OBP": 0.318,
         "SLG": 0.428,
         "OPS": 0.746,
-        " Team ": "COL",
-        " POS ": "LF,CF,RF"
+        "Team ": "COL",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Jason Kipnis",
@@ -1746,8 +1746,8 @@
         "OBP": 0.329,
         "SLG": 0.38,
         "OPS": 0.709,
-        " Team ": "CLE",
-        " POS ": "2B"
+        "Team ": "CLE",
+        "POS ": "2B"
     },
     {
         "Name": "Billy Hamilton",
@@ -1771,8 +1771,8 @@
         "OBP": 0.301,
         "SLG": 0.353,
         "OPS": 0.655,
-        " Team ": "CIN",
-        " POS ": "CF"
+        "Team ": "CIN",
+        "POS ": "CF"
     },
     {
         "Name": "Ben Revere",
@@ -1796,8 +1796,8 @@
         "OBP": 0.323,
         "SLG": 0.355,
         "OPS": 0.678,
-        " Team ": "PHI",
-        " POS ": "CF"
+        "Team ": "PHI",
+        "POS ": "CF"
     },
     {
         "Name": "Pablo Sandoval",
@@ -1821,8 +1821,8 @@
         "OBP": 0.338,
         "SLG": 0.439,
         "OPS": 0.777,
-        " Team ": "BOS",
-        " POS ": "3B"
+        "Team ": "BOS",
+        "POS ": "3B"
     },
     {
         "Name": "J.D. Martinez",
@@ -1846,8 +1846,8 @@
         "OBP": 0.321,
         "SLG": 0.472,
         "OPS": 0.794,
-        " Team ": "DET",
-        " POS ": "LF,RF"
+        "Team ": "DET",
+        "POS ": "LF,RF"
     },
     {
         "Name": "Kole Calhoun",
@@ -1871,8 +1871,8 @@
         "OBP": 0.328,
         "SLG": 0.44,
         "OPS": 0.769,
-        " Team ": "LAA",
-        " POS ": "RF"
+        "Team ": "LAA",
+        "POS ": "RF"
     },
     {
         "Name": "Evan Gattis",
@@ -1896,8 +1896,8 @@
         "OBP": 0.3,
         "SLG": 0.484,
         "OPS": 0.784,
-        " Team ": "HOU",
-        " POS ": "C"
+        "Team ": "HOU",
+        "POS ": "C"
     },
     {
         "Name": "Nolan Arenado",
@@ -1921,8 +1921,8 @@
         "OBP": 0.326,
         "SLG": 0.473,
         "OPS": 0.799,
-        " Team ": "COL",
-        " POS ": "3B"
+        "Team ": "COL",
+        "POS ": "3B"
     },
     {
         "Name": "Shin-Soo Choo",
@@ -1946,8 +1946,8 @@
         "OBP": 0.356,
         "SLG": 0.415,
         "OPS": 0.77,
-        " Team ": "TEX",
-        " POS ": "LF,RF,CF,DH"
+        "Team ": "TEX",
+        "POS ": "LF,RF,CF,DH"
     },
     {
         "Name": "David Wright",
@@ -1971,8 +1971,8 @@
         "OBP": 0.348,
         "SLG": 0.433,
         "OPS": 0.781,
-        " Team ": "NYM",
-        " POS ": "3B"
+        "Team ": "NYM",
+        "POS ": "3B"
     },
     {
         "Name": "Marcell Ozuna",
@@ -1996,8 +1996,8 @@
         "OBP": 0.31,
         "SLG": 0.437,
         "OPS": 0.747,
-        " Team ": "MIA",
-        " POS ": "LF,CF,RF"
+        "Team ": "MIA",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Brett Gardner",
@@ -2021,8 +2021,8 @@
         "OBP": 0.326,
         "SLG": 0.402,
         "OPS": 0.728,
-        " Team ": "NYY",
-        " POS ": "LF,CF"
+        "Team ": "NYY",
+        "POS ": "LF,CF"
     },
     {
         "Name": "Dee Gordon",
@@ -2046,8 +2046,8 @@
         "OBP": 0.311,
         "SLG": 0.348,
         "OPS": 0.659,
-        " Team ": "MIA",
-        " POS ": "2B"
+        "Team ": "MIA",
+        "POS ": "2B"
     },
     {
         "Name": "Austin Jackson",
@@ -2071,8 +2071,8 @@
         "OBP": 0.322,
         "SLG": 0.373,
         "OPS": 0.695,
-        " Team ": "SEA",
-        " POS ": "CF"
+        "Team ": "SEA",
+        "POS ": "CF"
     },
     {
         "Name": "Josh Harrison",
@@ -2096,8 +2096,8 @@
         "OBP": 0.318,
         "SLG": 0.436,
         "OPS": 0.755,
-        " Team ": "PIT",
-        " POS ": "2B,3B,LF,RF"
+        "Team ": "PIT",
+        "POS ": "2B,3B,LF,RF"
     },
     {
         "Name": "Neil Walker",
@@ -2121,8 +2121,8 @@
         "OBP": 0.333,
         "SLG": 0.444,
         "OPS": 0.777,
-        " Team ": "PIT",
-        " POS ": "2B"
+        "Team ": "PIT",
+        "POS ": "2B"
     },
     {
         "Name": "Howie Kendrick",
@@ -2146,8 +2146,8 @@
         "OBP": 0.327,
         "SLG": 0.401,
         "OPS": 0.728,
-        " Team ": "LAD",
-        " POS ": "2B"
+        "Team ": "LAD",
+        "POS ": "2B"
     },
     {
         "Name": "Leonys Martin",
@@ -2171,8 +2171,8 @@
         "OBP": 0.319,
         "SLG": 0.383,
         "OPS": 0.702,
-        " Team ": "TEX",
-        " POS ": "CF"
+        "Team ": "TEX",
+        "POS ": "CF"
     },
     {
         "Name": "Martin Prado",
@@ -2196,8 +2196,8 @@
         "OBP": 0.324,
         "SLG": 0.408,
         "OPS": 0.732,
-        " Team ": "MIA",
-        " POS ": "2B,3B,RF"
+        "Team ": "MIA",
+        "POS ": "2B,3B,RF"
     },
     {
         "Name": "Manny Machado",
@@ -2221,8 +2221,8 @@
         "OBP": 0.319,
         "SLG": 0.438,
         "OPS": 0.756,
-        " Team ": "BAL",
-        " POS ": "3B"
+        "Team ": "BAL",
+        "POS ": "3B"
     },
     {
         "Name": "Prince Fielder",
@@ -2246,8 +2246,8 @@
         "OBP": 0.366,
         "SLG": 0.463,
         "OPS": 0.829,
-        " Team ": "TEX",
-        " POS ": "1B"
+        "Team ": "TEX",
+        "POS ": "1B"
     },
     {
         "Name": "Gregory Polanco",
@@ -2271,8 +2271,8 @@
         "OBP": 0.322,
         "SLG": 0.381,
         "OPS": 0.703,
-        " Team ": "PIT",
-        " POS ": "RF"
+        "Team ": "PIT",
+        "POS ": "RF"
     },
     {
         "Name": "Michael Cuddyer",
@@ -2296,8 +2296,8 @@
         "OBP": 0.333,
         "SLG": 0.459,
         "OPS": 0.793,
-        " Team ": "NYM",
-        " POS ": "1B,RF"
+        "Team ": "NYM",
+        "POS ": "1B,RF"
     },
     {
         "Name": "Starlin Castro",
@@ -2321,8 +2321,8 @@
         "OBP": 0.315,
         "SLG": 0.408,
         "OPS": 0.723,
-        " Team ": "CHC",
-        " POS ": "SS"
+        "Team ": "CHC",
+        "POS ": "SS"
     },
     {
         "Name": "Nick Markakis",
@@ -2346,8 +2346,8 @@
         "OBP": 0.336,
         "SLG": 0.386,
         "OPS": 0.722,
-        " Team ": "ATL",
-        " POS ": "RF"
+        "Team ": "ATL",
+        "POS ": "RF"
     },
     {
         "Name": "Salvador Perez",
@@ -2371,8 +2371,8 @@
         "OBP": 0.307,
         "SLG": 0.426,
         "OPS": 0.733,
-        " Team ": "KC",
-        " POS ": "C"
+        "Team ": "KC",
+        "POS ": "C"
     },
     {
         "Name": "Chase Utley",
@@ -2396,8 +2396,8 @@
         "OBP": 0.33,
         "SLG": 0.416,
         "OPS": 0.746,
-        " Team ": "PHI",
-        " POS ": "2B"
+        "Team ": "PHI",
+        "POS ": "2B"
     },
     {
         "Name": "Coco Crisp",
@@ -2421,8 +2421,8 @@
         "OBP": 0.329,
         "SLG": 0.386,
         "OPS": 0.715,
-        " Team ": "OAK",
-        " POS ": "CF"
+        "Team ": "OAK",
+        "POS ": "CF"
     },
     {
         "Name": "Mookie Betts",
@@ -2446,8 +2446,8 @@
         "OBP": 0.355,
         "SLG": 0.431,
         "OPS": 0.786,
-        " Team ": "BOS",
-        " POS ": "2B,CF,RF"
+        "Team ": "BOS",
+        "POS ": "2B,CF,RF"
     },
     {
         "Name": "Jimmy Rollins",
@@ -2471,8 +2471,8 @@
         "OBP": 0.312,
         "SLG": 0.37,
         "OPS": 0.683,
-        " Team ": "LAD",
-        " POS ": "SS"
+        "Team ": "LAD",
+        "POS ": "SS"
     },
     {
         "Name": "Carlos Beltran",
@@ -2496,8 +2496,8 @@
         "OBP": 0.32,
         "SLG": 0.438,
         "OPS": 0.757,
-        " Team ": "NYY",
-        " POS ": "RF,DH"
+        "Team ": "NYY",
+        "POS ": "RF,DH"
     },
     {
         "Name": "Joey Votto",
@@ -2521,8 +2521,8 @@
         "OBP": 0.412,
         "SLG": 0.47,
         "OPS": 0.881,
-        " Team ": "CIN",
-        " POS ": "1B"
+        "Team ": "CIN",
+        "POS ": "1B"
     },
     {
         "Name": "Chase Headley",
@@ -2546,8 +2546,8 @@
         "OBP": 0.338,
         "SLG": 0.42,
         "OPS": 0.758,
-        " Team ": "NYY",
-        " POS ": "1B,3B"
+        "Team ": "NYY",
+        "POS ": "1B,3B"
     },
     {
         "Name": "Yadier Molina",
@@ -2571,8 +2571,8 @@
         "OBP": 0.337,
         "SLG": 0.426,
         "OPS": 0.763,
-        " Team ": "STL",
-        " POS ": "C"
+        "Team ": "STL",
+        "POS ": "C"
     },
     {
         "Name": "Adam LaRoche",
@@ -2596,8 +2596,8 @@
         "OBP": 0.349,
         "SLG": 0.447,
         "OPS": 0.796,
-        " Team ": "CWS",
-        " POS ": "1B"
+        "Team ": "CWS",
+        "POS ": "1B"
     },
     {
         "Name": "Marlon Byrd",
@@ -2621,8 +2621,8 @@
         "OBP": 0.299,
         "SLG": 0.432,
         "OPS": 0.731,
-        " Team ": "CIN",
-        " POS ": "RF"
+        "Team ": "CIN",
+        "POS ": "RF"
     },
     {
         "Name": "Desmond Jennings",
@@ -2646,33 +2646,33 @@
         "OBP": 0.316,
         "SLG": 0.389,
         "OPS": 0.705,
-        " Team ": "TB",
-        " POS ": "CF"
+        "Team ": "TB",
+        "POS ": "CF"
     },
     {
         "Name": "Josh Hamilton",
-        "FPTS": 237,
+        "FPTS": 227,
         "PPPA": 0.45,
-        "AB": 483,
-        "PA": 526,
-        "H": 121,
-        "1B": 75,
-        "2B": 26,
+        "AB": 466,
+        "PA": 508,
+        "H": 117,
+        "1B": 73,
+        "2B": 25,
         "3B": 2,
-        "HR": 18,
-        "R": 62,
-        "RBI": 70,
-        "BB": 43,
+        "HR": 17,
+        "R": 60,
+        "RBI": 67,
+        "BB": 42,
         "SB": 3,
         "CS": 2,
-        "SO": 144,
-        "TB": 205,
+        "SO": 140,
+        "TB": 197,
         "AVG": 0.25,
         "OBP": 0.312,
         "SLG": 0.425,
         "OPS": 0.737,
-        " Team ": "LAA",
-        " POS ": "LF,CF,RF"
+        "Team ": "LAA",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Erick Aybar",
@@ -2696,8 +2696,8 @@
         "OBP": 0.312,
         "SLG": 0.38,
         "OPS": 0.692,
-        " Team ": "LAA",
-        " POS ": "SS"
+        "Team ": "LAA",
+        "POS ": "SS"
     },
     {
         "Name": "Danny Santana",
@@ -2721,8 +2721,8 @@
         "OBP": 0.307,
         "SLG": 0.395,
         "OPS": 0.702,
-        " Team ": "MIN",
-        " POS ": "SS,CF"
+        "Team ": "MIN",
+        "POS ": "SS,CF"
     },
     {
         "Name": "Oswaldo Arcia",
@@ -2746,8 +2746,8 @@
         "OBP": 0.304,
         "SLG": 0.45,
         "OPS": 0.754,
-        " Team ": "MIN",
-        " POS ": "RF"
+        "Team ": "MIN",
+        "POS ": "RF"
     },
     {
         "Name": "Adam Eaton",
@@ -2771,8 +2771,8 @@
         "OBP": 0.337,
         "SLG": 0.387,
         "OPS": 0.724,
-        " Team ": "CWS",
-        " POS ": "CF"
+        "Team ": "CWS",
+        "POS ": "CF"
     },
     {
         "Name": "Aramis Ramirez",
@@ -2796,8 +2796,8 @@
         "OBP": 0.323,
         "SLG": 0.442,
         "OPS": 0.766,
-        " Team ": "MIL",
-        " POS ": "3B"
+        "Team ": "MIL",
+        "POS ": "3B"
     },
     {
         "Name": "Justin Morneau",
@@ -2821,8 +2821,8 @@
         "OBP": 0.345,
         "SLG": 0.466,
         "OPS": 0.811,
-        " Team ": "COL",
-        " POS ": "1B"
+        "Team ": "COL",
+        "POS ": "1B"
     },
     {
         "Name": "Brian McCann",
@@ -2846,8 +2846,8 @@
         "OBP": 0.304,
         "SLG": 0.421,
         "OPS": 0.725,
-        " Team ": "NYY",
-        " POS ": "C,1B"
+        "Team ": "NYY",
+        "POS ": "C,1B"
     },
     {
         "Name": "Josh Reddick",
@@ -2871,8 +2871,8 @@
         "OBP": 0.314,
         "SLG": 0.433,
         "OPS": 0.747,
-        " Team ": "OAK",
-        " POS ": "RF"
+        "Team ": "OAK",
+        "POS ": "RF"
     },
     {
         "Name": "Asdrubal Cabrera",
@@ -2896,8 +2896,8 @@
         "OBP": 0.308,
         "SLG": 0.393,
         "OPS": 0.701,
-        " Team ": "TB",
-        " POS ": "2B,SS"
+        "Team ": "TB",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Khris Davis",
@@ -2921,8 +2921,8 @@
         "OBP": 0.31,
         "SLG": 0.472,
         "OPS": 0.781,
-        " Team ": "MIL",
-        " POS ": "LF"
+        "Team ": "MIL",
+        "POS ": "LF"
     },
     {
         "Name": "Eric Hosmer",
@@ -2946,8 +2946,8 @@
         "OBP": 0.329,
         "SLG": 0.417,
         "OPS": 0.746,
-        " Team ": "KC",
-        " POS ": "1B"
+        "Team ": "KC",
+        "POS ": "1B"
     },
     {
         "Name": "Yan Gomes",
@@ -2971,8 +2971,8 @@
         "OBP": 0.307,
         "SLG": 0.448,
         "OPS": 0.754,
-        " Team ": "CLE",
-        " POS ": "C"
+        "Team ": "CLE",
+        "POS ": "C"
     },
     {
         "Name": "Jean Segura",
@@ -2996,8 +2996,8 @@
         "OBP": 0.308,
         "SLG": 0.372,
         "OPS": 0.68,
-        " Team ": "MIL",
-        " POS ": "SS"
+        "Team ": "MIL",
+        "POS ": "SS"
     },
     {
         "Name": "Alejandro De Aza",
@@ -3021,8 +3021,8 @@
         "OBP": 0.318,
         "SLG": 0.398,
         "OPS": 0.716,
-        " Team ": "BAL",
-        " POS ": "LF,CF"
+        "Team ": "BAL",
+        "POS ": "LF,CF"
     },
     {
         "Name": "Curtis Granderson",
@@ -3046,8 +3046,8 @@
         "OBP": 0.318,
         "SLG": 0.406,
         "OPS": 0.724,
-        " Team ": "NYM",
-        " POS ": "LF,CF,RF"
+        "Team ": "NYM",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Alcides Escobar",
@@ -3071,8 +3071,8 @@
         "OBP": 0.297,
         "SLG": 0.352,
         "OPS": 0.649,
-        " Team ": "KC",
-        " POS ": "SS"
+        "Team ": "KC",
+        "POS ": "SS"
     },
     {
         "Name": "A.J. Pollock",
@@ -3096,8 +3096,8 @@
         "OBP": 0.322,
         "SLG": 0.42,
         "OPS": 0.743,
-        " Team ": "ARI",
-        " POS ": "CF"
+        "Team ": "ARI",
+        "POS ": "CF"
     },
     {
         "Name": "Carl Crawford",
@@ -3121,8 +3121,8 @@
         "OBP": 0.32,
         "SLG": 0.405,
         "OPS": 0.725,
-        " Team ": "LAD",
-        " POS ": "LF"
+        "Team ": "LAD",
+        "POS ": "LF"
     },
     {
         "Name": "Pedro Alvarez",
@@ -3146,8 +3146,8 @@
         "OBP": 0.311,
         "SLG": 0.439,
         "OPS": 0.75,
-        " Team ": "PIT",
-        " POS ": "1B,3B"
+        "Team ": "PIT",
+        "POS ": "1B,3B"
     },
     {
         "Name": "Steve Pearce",
@@ -3171,8 +3171,8 @@
         "OBP": 0.342,
         "SLG": 0.479,
         "OPS": 0.821,
-        " Team ": "BAL",
-        " POS ": "1B,LF"
+        "Team ": "BAL",
+        "POS ": "1B,LF"
     },
     {
         "Name": "Michael Saunders",
@@ -3196,8 +3196,8 @@
         "OBP": 0.33,
         "SLG": 0.437,
         "OPS": 0.767,
-        " Team ": "TOR",
-        " POS ": "CF,RF,LF"
+        "Team ": "TOR",
+        "POS ": "CF,RF,LF"
     },
     {
         "Name": "Lorenzo Cain",
@@ -3221,8 +3221,8 @@
         "OBP": 0.31,
         "SLG": 0.382,
         "OPS": 0.692,
-        " Team ": "KC",
-        " POS ": "CF,RF"
+        "Team ": "KC",
+        "POS ": "CF,RF"
     },
     {
         "Name": "Wilin Rosario",
@@ -3246,8 +3246,8 @@
         "OBP": 0.307,
         "SLG": 0.469,
         "OPS": 0.776,
-        " Team ": "COL",
-        " POS ": "C"
+        "Team ": "COL",
+        "POS ": "C"
     },
     {
         "Name": "Devin Mesoraco",
@@ -3271,8 +3271,8 @@
         "OBP": 0.323,
         "SLG": 0.466,
         "OPS": 0.789,
-        " Team ": "CIN",
-        " POS ": "C"
+        "Team ": "CIN",
+        "POS ": "C"
     },
     {
         "Name": "Jorge Soler",
@@ -3296,8 +3296,8 @@
         "OBP": 0.327,
         "SLG": 0.496,
         "OPS": 0.823,
-        " Team ": "CHC",
-        " POS ": "RF"
+        "Team ": "CHC",
+        "POS ": "RF"
     },
     {
         "Name": "Angel Pagan",
@@ -3321,8 +3321,8 @@
         "OBP": 0.332,
         "SLG": 0.394,
         "OPS": 0.726,
-        " Team ": "SF",
-        " POS ": "CF"
+        "Team ": "SF",
+        "POS ": "CF"
     },
     {
         "Name": "Brandon Phillips",
@@ -3346,8 +3346,8 @@
         "OBP": 0.303,
         "SLG": 0.387,
         "OPS": 0.691,
-        " Team ": "CIN",
-        " POS ": "2B"
+        "Team ": "CIN",
+        "POS ": "2B"
     },
     {
         "Name": "Wil Myers",
@@ -3371,8 +3371,8 @@
         "OBP": 0.317,
         "SLG": 0.399,
         "OPS": 0.716,
-        " Team ": "SD",
-        " POS ": "RF"
+        "Team ": "SD",
+        "POS ": "RF"
     },
     {
         "Name": "Drew Stubbs",
@@ -3396,8 +3396,8 @@
         "OBP": 0.309,
         "SLG": 0.41,
         "OPS": 0.719,
-        " Team ": "COL",
-        " POS ": "CF"
+        "Team ": "COL",
+        "POS ": "CF"
     },
     {
         "Name": "Dexter Fowler",
@@ -3421,8 +3421,8 @@
         "OBP": 0.357,
         "SLG": 0.396,
         "OPS": 0.752,
-        " Team ": "CHC",
-        " POS ": "CF"
+        "Team ": "CHC",
+        "POS ": "CF"
     },
     {
         "Name": "Aaron Hill",
@@ -3446,8 +3446,8 @@
         "OBP": 0.312,
         "SLG": 0.413,
         "OPS": 0.725,
-        " Team ": "ARI",
-        " POS ": "2B,3B"
+        "Team ": "ARI",
+        "POS ": "2B,3B"
     },
     {
         "Name": "Russell Martin",
@@ -3471,8 +3471,8 @@
         "OBP": 0.34,
         "SLG": 0.414,
         "OPS": 0.754,
-        " Team ": "TOR",
-        " POS ": "C"
+        "Team ": "TOR",
+        "POS ": "C"
     },
     {
         "Name": "Kris Bryant",
@@ -3496,8 +3496,8 @@
         "OBP": 0.339,
         "SLG": 0.502,
         "OPS": 0.841,
-        " Team ": "CHC",
-        " POS ": "3B"
+        "Team ": "CHC",
+        "POS ": "3B"
     },
     {
         "Name": "Billy Butler",
@@ -3521,8 +3521,8 @@
         "OBP": 0.341,
         "SLG": 0.409,
         "OPS": 0.75,
-        " Team ": "OAK",
-        " POS ": "1B,DH"
+        "Team ": "OAK",
+        "POS ": "1B,DH"
     },
     {
         "Name": "Michael Bourn",
@@ -3546,8 +3546,8 @@
         "OBP": 0.312,
         "SLG": 0.353,
         "OPS": 0.664,
-        " Team ": "CLE",
-        " POS ": "CF"
+        "Team ": "CLE",
+        "POS ": "CF"
     },
     {
         "Name": "Avisail Garcia",
@@ -3571,8 +3571,8 @@
         "OBP": 0.308,
         "SLG": 0.415,
         "OPS": 0.723,
-        " Team ": "CWS",
-        " POS ": "RF"
+        "Team ": "CWS",
+        "POS ": "RF"
     },
     {
         "Name": "Javier Baez",
@@ -3596,8 +3596,8 @@
         "OBP": 0.27,
         "SLG": 0.396,
         "OPS": 0.666,
-        " Team ": "CHC",
-        " POS ": "2B,SS"
+        "Team ": "CHC",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Jhonny Peralta",
@@ -3621,8 +3621,8 @@
         "OBP": 0.324,
         "SLG": 0.413,
         "OPS": 0.737,
-        " Team ": "STL",
-        " POS ": "SS"
+        "Team ": "STL",
+        "POS ": "SS"
     },
     {
         "Name": "Matt Wieters",
@@ -3646,8 +3646,8 @@
         "OBP": 0.314,
         "SLG": 0.432,
         "OPS": 0.747,
-        " Team ": "BAL",
-        " POS ": "C"
+        "Team ": "BAL",
+        "POS ": "C"
     },
     {
         "Name": "Dustin Ackley",
@@ -3671,8 +3671,8 @@
         "OBP": 0.308,
         "SLG": 0.378,
         "OPS": 0.685,
-        " Team ": "SEA",
-        " POS ": "LF"
+        "Team ": "SEA",
+        "POS ": "LF"
     },
     {
         "Name": "Rajai Davis",
@@ -3696,8 +3696,8 @@
         "OBP": 0.305,
         "SLG": 0.376,
         "OPS": 0.682,
-        " Team ": "DET",
-        " POS ": "LF,CF"
+        "Team ": "DET",
+        "POS ": "LF,CF"
     },
     {
         "Name": "Jed Lowrie",
@@ -3721,8 +3721,8 @@
         "OBP": 0.332,
         "SLG": 0.406,
         "OPS": 0.738,
-        " Team ": "HOU",
-        " POS ": "SS"
+        "Team ": "HOU",
+        "POS ": "SS"
     },
     {
         "Name": "Michael Morse",
@@ -3746,8 +3746,8 @@
         "OBP": 0.313,
         "SLG": 0.449,
         "OPS": 0.762,
-        " Team ": "MIA",
-        " POS ": "1B,LF"
+        "Team ": "MIA",
+        "POS ": "1B,LF"
     },
     {
         "Name": "Norichika Aoki",
@@ -3771,8 +3771,8 @@
         "OBP": 0.334,
         "SLG": 0.362,
         "OPS": 0.696,
-        " Team ": "SF",
-        " POS ": "RF"
+        "Team ": "SF",
+        "POS ": "RF"
     },
     {
         "Name": "J.J. Hardy",
@@ -3796,8 +3796,8 @@
         "OBP": 0.297,
         "SLG": 0.39,
         "OPS": 0.688,
-        " Team ": "BAL",
-        " POS ": "SS"
+        "Team ": "BAL",
+        "POS ": "SS"
     },
     {
         "Name": "Trevor Plouffe",
@@ -3821,8 +3821,8 @@
         "OBP": 0.317,
         "SLG": 0.421,
         "OPS": 0.738,
-        " Team ": "MIN",
-        " POS ": "3B"
+        "Team ": "MIN",
+        "POS ": "3B"
     },
     {
         "Name": "Kolten Wong",
@@ -3846,8 +3846,8 @@
         "OBP": 0.302,
         "SLG": 0.386,
         "OPS": 0.688,
-        " Team ": "STL",
-        " POS ": "2B"
+        "Team ": "STL",
+        "POS ": "2B"
     },
     {
         "Name": "Lucas Duda",
@@ -3871,8 +3871,8 @@
         "OBP": 0.335,
         "SLG": 0.443,
         "OPS": 0.778,
-        " Team ": "NYM",
-        " POS ": "1B"
+        "Team ": "NYM",
+        "POS ": "1B"
     },
     {
         "Name": "Matt Adams",
@@ -3896,8 +3896,8 @@
         "OBP": 0.318,
         "SLG": 0.461,
         "OPS": 0.779,
-        " Team ": "STL",
-        " POS ": "1B"
+        "Team ": "STL",
+        "POS ": "1B"
     },
     {
         "Name": "Joe Mauer",
@@ -3921,8 +3921,8 @@
         "OBP": 0.37,
         "SLG": 0.408,
         "OPS": 0.778,
-        " Team ": "MIN",
-        " POS ": "1B"
+        "Team ": "MIN",
+        "POS ": "1B"
     },
     {
         "Name": "Scooter Gennett",
@@ -3946,8 +3946,8 @@
         "OBP": 0.317,
         "SLG": 0.419,
         "OPS": 0.736,
-        " Team ": "MIL",
-        " POS ": "2B"
+        "Team ": "MIL",
+        "POS ": "2B"
     },
     {
         "Name": "Domonic Brown",
@@ -3971,8 +3971,8 @@
         "OBP": 0.309,
         "SLG": 0.405,
         "OPS": 0.713,
-        " Team ": "PHI",
-        " POS ": "LF"
+        "Team ": "PHI",
+        "POS ": "LF"
     },
     {
         "Name": "Joc Pederson",
@@ -3996,8 +3996,8 @@
         "OBP": 0.32,
         "SLG": 0.357,
         "OPS": 0.677,
-        " Team ": "LAD",
-        " POS ": "LF"
+        "Team ": "LAD",
+        "POS ": "LF"
     },
     {
         "Name": "Allen Craig",
@@ -4021,8 +4021,8 @@
         "OBP": 0.321,
         "SLG": 0.419,
         "OPS": 0.74,
-        " Team ": "BOS",
-        " POS ": "1B,LF,RF"
+        "Team ": "BOS",
+        "POS ": "1B,LF,RF"
     },
     {
         "Name": "Brandon Belt",
@@ -4046,8 +4046,8 @@
         "OBP": 0.336,
         "SLG": 0.452,
         "OPS": 0.787,
-        " Team ": "SF",
-        " POS ": "1B"
+        "Team ": "SF",
+        "POS ": "1B"
     },
     {
         "Name": "Jon Jay",
@@ -4071,8 +4071,8 @@
         "OBP": 0.335,
         "SLG": 0.378,
         "OPS": 0.713,
-        " Team ": "STL",
-        " POS ": "LF,CF,RF"
+        "Team ": "STL",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Jedd Gyorko",
@@ -4096,8 +4096,8 @@
         "OBP": 0.298,
         "SLG": 0.403,
         "OPS": 0.701,
-        " Team ": "SD",
-        " POS ": "2B"
+        "Team ": "SD",
+        "POS ": "2B"
     },
     {
         "Name": "Colby Rasmus",
@@ -4121,8 +4121,8 @@
         "OBP": 0.294,
         "SLG": 0.431,
         "OPS": 0.725,
-        " Team ": "HOU",
-        " POS ": "CF"
+        "Team ": "HOU",
+        "POS ": "CF"
     },
     {
         "Name": "Omar Infante",
@@ -4146,8 +4146,8 @@
         "OBP": 0.308,
         "SLG": 0.376,
         "OPS": 0.684,
-        " Team ": "KC",
-        " POS ": "2B"
+        "Team ": "KC",
+        "POS ": "2B"
     },
     {
         "Name": "DJ LeMahieu",
@@ -4171,8 +4171,8 @@
         "OBP": 0.317,
         "SLG": 0.366,
         "OPS": 0.683,
-        " Team ": "COL",
-        " POS ": "2B"
+        "Team ": "COL",
+        "POS ": "2B"
     },
     {
         "Name": "David Freese",
@@ -4196,8 +4196,8 @@
         "OBP": 0.326,
         "SLG": 0.391,
         "OPS": 0.717,
-        " Team ": "LAA",
-        " POS ": "3B"
+        "Team ": "LAA",
+        "POS ": "3B"
     },
     {
         "Name": "Mike Napoli",
@@ -4221,8 +4221,8 @@
         "OBP": 0.346,
         "SLG": 0.44,
         "OPS": 0.786,
-        " Team ": "BOS",
-        " POS ": "1B"
+        "Team ": "BOS",
+        "POS ": "1B"
     },
     {
         "Name": "Nick Castellanos",
@@ -4246,8 +4246,8 @@
         "OBP": 0.309,
         "SLG": 0.407,
         "OPS": 0.716,
-        " Team ": "DET",
-        " POS ": "3B"
+        "Team ": "DET",
+        "POS ": "3B"
     },
     {
         "Name": "Wilson Ramos",
@@ -4271,8 +4271,8 @@
         "OBP": 0.311,
         "SLG": 0.431,
         "OPS": 0.742,
-        " Team ": "WSH",
-        " POS ": "C"
+        "Team ": "WSH",
+        "POS ": "C"
     },
     {
         "Name": "Chris Johnson",
@@ -4296,8 +4296,8 @@
         "OBP": 0.308,
         "SLG": 0.392,
         "OPS": 0.701,
-        " Team ": "ATL",
-        " POS ": "3B"
+        "Team ": "ATL",
+        "POS ": "3B"
     },
     {
         "Name": "Adam Lind",
@@ -4321,8 +4321,8 @@
         "OBP": 0.348,
         "SLG": 0.462,
         "OPS": 0.81,
-        " Team ": "MIL",
-        " POS ": "1B,DH"
+        "Team ": "MIL",
+        "POS ": "1B,DH"
     },
     {
         "Name": "Travis d'Arnaud",
@@ -4346,8 +4346,8 @@
         "OBP": 0.312,
         "SLG": 0.426,
         "OPS": 0.738,
-        " Team ": "NYM",
-        " POS ": "C"
+        "Team ": "NYM",
+        "POS ": "C"
     },
     {
         "Name": "Steven Souza",
@@ -4371,8 +4371,8 @@
         "OBP": 0.325,
         "SLG": 0.416,
         "OPS": 0.741,
-        " Team ": "TB",
-        " POS ": "RF"
+        "Team ": "TB",
+        "POS ": "RF"
     },
     {
         "Name": "Lonnie Chisenhall",
@@ -4396,8 +4396,8 @@
         "OBP": 0.317,
         "SLG": 0.426,
         "OPS": 0.743,
-        " Team ": "CLE",
-        " POS ": "1B,3B"
+        "Team ": "CLE",
+        "POS ": "1B,3B"
     },
     {
         "Name": "Brett Lawrie",
@@ -4421,8 +4421,8 @@
         "OBP": 0.307,
         "SLG": 0.407,
         "OPS": 0.713,
-        " Team ": "OAK",
-        " POS ": "2B,3B"
+        "Team ": "OAK",
+        "POS ": "2B,3B"
     },
     {
         "Name": "Xander Bogaerts",
@@ -4446,8 +4446,8 @@
         "OBP": 0.306,
         "SLG": 0.39,
         "OPS": 0.696,
-        " Team ": "BOS",
-        " POS ": "3B,SS"
+        "Team ": "BOS",
+        "POS ": "3B,SS"
     },
     {
         "Name": "Marcus Semien",
@@ -4471,8 +4471,8 @@
         "OBP": 0.317,
         "SLG": 0.397,
         "OPS": 0.714,
-        " Team ": "OAK",
-        " POS ": "2B,3B"
+        "Team ": "OAK",
+        "POS ": "2B,3B"
     },
     {
         "Name": "Andrelton Simmons",
@@ -4496,8 +4496,8 @@
         "OBP": 0.304,
         "SLG": 0.374,
         "OPS": 0.678,
-        " Team ": "ATL",
-        " POS ": "SS"
+        "Team ": "ATL",
+        "POS ": "SS"
     },
     {
         "Name": "Miguel Montero",
@@ -4521,8 +4521,8 @@
         "OBP": 0.333,
         "SLG": 0.385,
         "OPS": 0.718,
-        " Team ": "CHC",
-        " POS ": "C"
+        "Team ": "CHC",
+        "POS ": "C"
     },
     {
         "Name": "Garrett Jones",
@@ -4546,8 +4546,8 @@
         "OBP": 0.311,
         "SLG": 0.444,
         "OPS": 0.755,
-        " Team ": "NYY",
-        " POS ": "1B,RF"
+        "Team ": "NYY",
+        "POS ": "1B,RF"
     },
     {
         "Name": "Logan Morrison",
@@ -4571,8 +4571,8 @@
         "OBP": 0.321,
         "SLG": 0.407,
         "OPS": 0.728,
-        " Team ": "SEA",
-        " POS ": "1B,RF"
+        "Team ": "SEA",
+        "POS ": "1B,RF"
     },
     {
         "Name": "Matt Joyce",
@@ -4596,8 +4596,8 @@
         "OBP": 0.331,
         "SLG": 0.393,
         "OPS": 0.724,
-        " Team ": "LAA",
-        " POS ": "LF,RF,DH"
+        "Team ": "LAA",
+        "POS ": "LF,RF,DH"
     },
     {
         "Name": "Shane Victorino",
@@ -4621,8 +4621,8 @@
         "OBP": 0.314,
         "SLG": 0.407,
         "OPS": 0.721,
-        " Team ": "BOS",
-        " POS ": "RF"
+        "Team ": "BOS",
+        "POS ": "RF"
     },
     {
         "Name": "Juan Lagares",
@@ -4646,8 +4646,8 @@
         "OBP": 0.293,
         "SLG": 0.358,
         "OPS": 0.651,
-        " Team ": "NYM",
-        " POS ": "CF"
+        "Team ": "NYM",
+        "POS ": "CF"
     },
     {
         "Name": "Bradley Miller",
@@ -4671,8 +4671,8 @@
         "OBP": 0.31,
         "SLG": 0.393,
         "OPS": 0.703,
-        " Team ": "SEA",
-        " POS ": "2B,SS"
+        "Team ": "SEA",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Rougned Odor",
@@ -4696,8 +4696,8 @@
         "OBP": 0.294,
         "SLG": 0.4,
         "OPS": 0.694,
-        " Team ": "TEX",
-        " POS ": "2B"
+        "Team ": "TEX",
+        "POS ": "2B"
     },
     {
         "Name": "John Jaso",
@@ -4721,8 +4721,8 @@
         "OBP": 0.343,
         "SLG": 0.408,
         "OPS": 0.751,
-        " Team ": "TB",
-        " POS ": "C,DH"
+        "Team ": "TB",
+        "POS ": "C,DH"
     },
     {
         "Name": "Jarrod Saltalamacchia",
@@ -4746,8 +4746,8 @@
         "OBP": 0.314,
         "SLG": 0.393,
         "OPS": 0.707,
-        " Team ": "MIA",
-        " POS ": "C"
+        "Team ": "MIA",
+        "POS ": "C"
     },
     {
         "Name": "Derek Norris",
@@ -4771,8 +4771,8 @@
         "OBP": 0.335,
         "SLG": 0.393,
         "OPS": 0.727,
-        " Team ": "SD",
-        " POS ": "C"
+        "Team ": "SD",
+        "POS ": "C"
     },
     {
         "Name": "James Loney",
@@ -4796,8 +4796,8 @@
         "OBP": 0.329,
         "SLG": 0.385,
         "OPS": 0.714,
-        " Team ": "TB",
-        " POS ": "1B"
+        "Team ": "TB",
+        "POS ": "1B"
     },
     {
         "Name": "Mike Zunino",
@@ -4821,8 +4821,8 @@
         "OBP": 0.26,
         "SLG": 0.408,
         "OPS": 0.669,
-        " Team ": "SEA",
-        " POS ": "C"
+        "Team ": "SEA",
+        "POS ": "C"
     },
     {
         "Name": "Josh Rutledge",
@@ -4846,8 +4846,8 @@
         "OBP": 0.291,
         "SLG": 0.375,
         "OPS": 0.666,
-        " Team ": "LAA",
-        " POS ": "2B,3B,SS"
+        "Team ": "LAA",
+        "POS ": "2B,3B,SS"
     },
     {
         "Name": "Arismendy Alcantara",
@@ -4871,8 +4871,8 @@
         "OBP": 0.287,
         "SLG": 0.386,
         "OPS": 0.673,
-        " Team ": "CHC",
-        " POS ": "2B,CF"
+        "Team ": "CHC",
+        "POS ": "2B,CF"
     },
     {
         "Name": "B.J. Upton",
@@ -4896,8 +4896,8 @@
         "OBP": 0.287,
         "SLG": 0.354,
         "OPS": 0.641,
-        " Team ": "ATL",
-        " POS ": "CF"
+        "Team ": "ATL",
+        "POS ": "CF"
     },
     {
         "Name": "Mike Moustakas",
@@ -4921,8 +4921,8 @@
         "OBP": 0.29,
         "SLG": 0.39,
         "OPS": 0.68,
-        " Team ": "KC",
-        " POS ": "3B"
+        "Team ": "KC",
+        "POS ": "3B"
     },
     {
         "Name": "Casey McGehee",
@@ -4946,8 +4946,8 @@
         "OBP": 0.328,
         "SLG": 0.349,
         "OPS": 0.677,
-        " Team ": "SF",
-        " POS ": "3B"
+        "Team ": "SF",
+        "POS ": "3B"
     },
     {
         "Name": "Ender Inciarte",
@@ -4971,8 +4971,8 @@
         "OBP": 0.313,
         "SLG": 0.357,
         "OPS": 0.669,
-        " Team ": "ARI",
-        " POS ": "LF,CF"
+        "Team ": "ARI",
+        "POS ": "LF,CF"
     },
     {
         "Name": "Seth Smith",
@@ -4996,8 +4996,8 @@
         "OBP": 0.34,
         "SLG": 0.404,
         "OPS": 0.744,
-        " Team ": "SEA",
-        " POS ": "LF,RF"
+        "Team ": "SEA",
+        "POS ": "LF,RF"
     },
     {
         "Name": "Kendrys Morales",
@@ -5021,8 +5021,8 @@
         "OBP": 0.313,
         "SLG": 0.415,
         "OPS": 0.728,
-        " Team ": "KC",
-        " POS ": "1B,DH"
+        "Team ": "KC",
+        "POS ": "1B,DH"
     },
     {
         "Name": "Yasmani Grandal",
@@ -5046,8 +5046,8 @@
         "OBP": 0.338,
         "SLG": 0.415,
         "OPS": 0.753,
-        " Team ": "LAD",
-        " POS ": "C,1B"
+        "Team ": "LAD",
+        "POS ": "C,1B"
     },
     {
         "Name": "Jason Castro",
@@ -5071,8 +5071,8 @@
         "OBP": 0.304,
         "SLG": 0.401,
         "OPS": 0.705,
-        " Team ": "HOU",
-        " POS ": "C"
+        "Team ": "HOU",
+        "POS ": "C"
     },
     {
         "Name": "Alex Rodriguez",
@@ -5096,8 +5096,8 @@
         "OBP": 0.319,
         "SLG": 0.393,
         "OPS": 0.711,
-        " Team ": "NYY",
-        " POS ": "3B"
+        "Team ": "NYY",
+        "POS ": "3B"
     },
     {
         "Name": "Jordy Mercer",
@@ -5121,8 +5121,8 @@
         "OBP": 0.31,
         "SLG": 0.394,
         "OPS": 0.704,
-        " Team ": "PIT",
-        " POS ": "SS"
+        "Team ": "PIT",
+        "POS ": "SS"
     },
     {
         "Name": "Gerardo Parra",
@@ -5146,8 +5146,8 @@
         "OBP": 0.313,
         "SLG": 0.381,
         "OPS": 0.694,
-        " Team ": "MIL",
-        " POS ": "LF,CF,RF"
+        "Team ": "MIL",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Kevin Kiermaier",
@@ -5171,8 +5171,8 @@
         "OBP": 0.308,
         "SLG": 0.408,
         "OPS": 0.716,
-        " Team ": "TB",
-        " POS ": "CF,RF"
+        "Team ": "TB",
+        "POS ": "CF,RF"
     },
     {
         "Name": "Eric Young",
@@ -5196,8 +5196,8 @@
         "OBP": 0.309,
         "SLG": 0.336,
         "OPS": 0.645,
-        " Team ": "NYM",
-        " POS ": "LF"
+        "Team ": "NYM",
+        "POS ": "LF"
     },
     {
         "Name": "Everth Cabrera",
@@ -5221,8 +5221,8 @@
         "OBP": 0.308,
         "SLG": 0.326,
         "OPS": 0.633,
-        " Team ": "SD",
-        " POS ": "SS"
+        "Team ": "SD",
+        "POS ": "SS"
     },
     {
         "Name": "Joe Panik",
@@ -5246,8 +5246,8 @@
         "OBP": 0.32,
         "SLG": 0.349,
         "OPS": 0.67,
-        " Team ": "SF",
-        " POS ": "2B"
+        "Team ": "SF",
+        "POS ": "2B"
     },
     {
         "Name": "Stephen Vogt",
@@ -5271,8 +5271,8 @@
         "OBP": 0.31,
         "SLG": 0.404,
         "OPS": 0.714,
-        " Team ": "OAK",
-        " POS ": "C,1B,RF"
+        "Team ": "OAK",
+        "POS ": "C,1B,RF"
     },
     {
         "Name": "Kennys Vargas",
@@ -5296,8 +5296,8 @@
         "OBP": 0.308,
         "SLG": 0.43,
         "OPS": 0.738,
-        " Team ": "MIN",
-        " POS ": "1B,DH"
+        "Team ": "MIN",
+        "POS ": "1B,DH"
     },
     {
         "Name": "Wilmer Flores",
@@ -5321,8 +5321,8 @@
         "OBP": 0.295,
         "SLG": 0.399,
         "OPS": 0.695,
-        " Team ": "NYM",
-        " POS ": "2B,SS"
+        "Team ": "NYM",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Chris Owings",
@@ -5346,8 +5346,8 @@
         "OBP": 0.291,
         "SLG": 0.386,
         "OPS": 0.677,
-        " Team ": "ARI",
-        " POS ": "2B,SS"
+        "Team ": "ARI",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Jarrod Dyson",
@@ -5371,8 +5371,8 @@
         "OBP": 0.311,
         "SLG": 0.326,
         "OPS": 0.637,
-        " Team ": "KC",
-        " POS ": "CF"
+        "Team ": "KC",
+        "POS ": "CF"
     },
     {
         "Name": "Brandon Crawford",
@@ -5396,8 +5396,8 @@
         "OBP": 0.313,
         "SLG": 0.371,
         "OPS": 0.684,
-        " Team ": "SF",
-        " POS ": "SS"
+        "Team ": "SF",
+        "POS ": "SS"
     },
     {
         "Name": "Carlos Ruiz",
@@ -5421,8 +5421,8 @@
         "OBP": 0.328,
         "SLG": 0.392,
         "OPS": 0.72,
-        " Team ": "PHI",
-        " POS ": "C"
+        "Team ": "PHI",
+        "POS ": "C"
     },
     {
         "Name": "Will Venable",
@@ -5446,8 +5446,8 @@
         "OBP": 0.301,
         "SLG": 0.398,
         "OPS": 0.699,
-        " Team ": "SD",
-        " POS ": "CF,RF"
+        "Team ": "SD",
+        "POS ": "CF,RF"
     },
     {
         "Name": "Conor Gillaspie",
@@ -5471,8 +5471,8 @@
         "OBP": 0.318,
         "SLG": 0.397,
         "OPS": 0.715,
-        " Team ": "CWS",
-        " POS ": "3B"
+        "Team ": "CWS",
+        "POS ": "3B"
     },
     {
         "Name": "Emilio Bonifacio",
@@ -5496,8 +5496,8 @@
         "OBP": 0.297,
         "SLG": 0.328,
         "OPS": 0.626,
-        " Team ": "CWS",
-        " POS ": "2B,CF,RF"
+        "Team ": "CWS",
+        "POS ": "2B,CF,RF"
     },
     {
         "Name": "Luis Valbuena",
@@ -5521,8 +5521,8 @@
         "OBP": 0.329,
         "SLG": 0.402,
         "OPS": 0.732,
-        " Team ": "HOU",
-        " POS ": "2B,3B"
+        "Team ": "HOU",
+        "POS ": "2B,3B"
     },
     {
         "Name": "Chris Coghlan",
@@ -5546,8 +5546,8 @@
         "OBP": 0.328,
         "SLG": 0.388,
         "OPS": 0.716,
-        " Team ": "CHC",
-        " POS ": "LF"
+        "Team ": "CHC",
+        "POS ": "LF"
     },
     {
         "Name": "Chris Denorfia",
@@ -5571,8 +5571,8 @@
         "OBP": 0.319,
         "SLG": 0.384,
         "OPS": 0.703,
-        " Team ": "CHC",
-        " POS ": "LF,CF,RF"
+        "Team ": "CHC",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Delmon Young",
@@ -5596,8 +5596,8 @@
         "OBP": 0.301,
         "SLG": 0.411,
         "OPS": 0.712,
-        " Team ": "BAL",
-        " POS ": "LF,DH"
+        "Team ": "BAL",
+        "POS ": "LF,DH"
     },
     {
         "Name": "Ryan Howard",
@@ -5621,8 +5621,8 @@
         "OBP": 0.304,
         "SLG": 0.393,
         "OPS": 0.698,
-        " Team ": "PHI",
-        " POS ": "1B"
+        "Team ": "PHI",
+        "POS ": "1B"
     },
     {
         "Name": "Dayan Viciedo",
@@ -5646,8 +5646,8 @@
         "OBP": 0.29,
         "SLG": 0.415,
         "OPS": 0.705,
-        " Team ": "CWS",
-        " POS ": "LF,RF"
+        "Team ": "CWS",
+        "POS ": "LF,RF"
     },
     {
         "Name": "Daniel Nava",
@@ -5671,8 +5671,8 @@
         "OBP": 0.342,
         "SLG": 0.393,
         "OPS": 0.735,
-        " Team ": "BOS",
-        " POS ": "1B,LF,RF"
+        "Team ": "BOS",
+        "POS ": "1B,LF,RF"
     },
     {
         "Name": "Yunel Escobar",
@@ -5696,8 +5696,8 @@
         "OBP": 0.321,
         "SLG": 0.351,
         "OPS": 0.671,
-        " Team ": "WSH",
-        " POS ": "SS"
+        "Team ": "WSH",
+        "POS ": "SS"
     },
     {
         "Name": "Anthony Gose",
@@ -5721,8 +5721,8 @@
         "OBP": 0.292,
         "SLG": 0.331,
         "OPS": 0.623,
-        " Team ": "DET",
-        " POS ": "LF,CF,RF"
+        "Team ": "DET",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Rickie Weeks",
@@ -5746,8 +5746,8 @@
         "OBP": 0.316,
         "SLG": 0.397,
         "OPS": 0.713,
-        " Team ": "SEA",
-        " POS ": "2B"
+        "Team ": "SEA",
+        "POS ": "2B"
     },
     {
         "Name": "Cody Asche",
@@ -5771,8 +5771,8 @@
         "OBP": 0.311,
         "SLG": 0.413,
         "OPS": 0.724,
-        " Team ": "PHI",
-        " POS ": "3B"
+        "Team ": "PHI",
+        "POS ": "3B"
     },
     {
         "Name": "Dioner Navarro",
@@ -5796,8 +5796,8 @@
         "OBP": 0.32,
         "SLG": 0.404,
         "OPS": 0.724,
-        " Team ": "TOR",
-        " POS ": "C,DH"
+        "Team ": "TOR",
+        "POS ": "C,DH"
     },
     {
         "Name": "Zack Cozart",
@@ -5821,8 +5821,8 @@
         "OBP": 0.276,
         "SLG": 0.347,
         "OPS": 0.623,
-        " Team ": "CIN",
-        " POS ": "SS"
+        "Team ": "CIN",
+        "POS ": "SS"
     },
     {
         "Name": "Kurt Suzuki",
@@ -5846,8 +5846,8 @@
         "OBP": 0.312,
         "SLG": 0.36,
         "OPS": 0.672,
-        " Team ": "MIN",
-        " POS ": "C"
+        "Team ": "MIN",
+        "POS ": "C"
     },
     {
         "Name": "Adeiny Hechavarria",
@@ -5871,8 +5871,8 @@
         "OBP": 0.296,
         "SLG": 0.343,
         "OPS": 0.639,
-        " Team ": "MIA",
-        " POS ": "SS"
+        "Team ": "MIA",
+        "POS ": "SS"
     },
     {
         "Name": "Craig Gentry",
@@ -5896,8 +5896,8 @@
         "OBP": 0.316,
         "SLG": 0.336,
         "OPS": 0.651,
-        " Team ": "OAK",
-        " POS ": "LF,CF,RF"
+        "Team ": "OAK",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Kevin Pillar",
@@ -5921,8 +5921,8 @@
         "OBP": 0.297,
         "SLG": 0.41,
         "OPS": 0.707,
-        " Team ": "TOR",
-        " POS ": "LF,CF"
+        "Team ": "TOR",
+        "POS ": "LF,CF"
     },
     {
         "Name": "Juan Uribe",
@@ -5946,8 +5946,8 @@
         "OBP": 0.305,
         "SLG": 0.389,
         "OPS": 0.694,
-        " Team ": "LAD",
-        " POS ": "3B"
+        "Team ": "LAD",
+        "POS ": "3B"
     },
     {
         "Name": "Jonny Gomes",
@@ -5971,8 +5971,8 @@
         "OBP": 0.322,
         "SLG": 0.382,
         "OPS": 0.704,
-        " Team ": "ATL",
-        " POS ": "LF,RF"
+        "Team ": "ATL",
+        "POS ": "LF,RF"
     },
     {
         "Name": "Alex Avila",
@@ -5996,8 +5996,8 @@
         "OBP": 0.321,
         "SLG": 0.372,
         "OPS": 0.693,
-        " Team ": "DET",
-        " POS ": "C"
+        "Team ": "DET",
+        "POS ": "C"
     },
     {
         "Name": "Jose Ramirez",
@@ -6021,8 +6021,8 @@
         "OBP": 0.31,
         "SLG": 0.357,
         "OPS": 0.667,
-        " Team ": "CLE",
-        " POS ": "2B,SS"
+        "Team ": "CLE",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Chris Iannetta",
@@ -6046,8 +6046,8 @@
         "OBP": 0.338,
         "SLG": 0.368,
         "OPS": 0.705,
-        " Team ": "LAA",
-        " POS ": "C"
+        "Team ": "LAA",
+        "POS ": "C"
     },
     {
         "Name": "Mark Teixeira",
@@ -6071,8 +6071,8 @@
         "OBP": 0.312,
         "SLG": 0.406,
         "OPS": 0.719,
-        " Team ": "NYY",
-        " POS ": "1B"
+        "Team ": "NYY",
+        "POS ": "1B"
     },
     {
         "Name": "David Murphy",
@@ -6096,8 +6096,8 @@
         "OBP": 0.32,
         "SLG": 0.396,
         "OPS": 0.717,
-        " Team ": "CLE",
-        " POS ": "RF"
+        "Team ": "CLE",
+        "POS ": "RF"
     },
     {
         "Name": "Travis Snider",
@@ -6121,8 +6121,8 @@
         "OBP": 0.324,
         "SLG": 0.427,
         "OPS": 0.751,
-        " Team ": "BAL",
-        " POS ": "LF,RF"
+        "Team ": "BAL",
+        "POS ": "LF,RF"
     },
     {
         "Name": "Gregor Blanco",
@@ -6146,8 +6146,8 @@
         "OBP": 0.328,
         "SLG": 0.356,
         "OPS": 0.684,
-        " Team ": "SF",
-        " POS ": "LF,CF"
+        "Team ": "SF",
+        "POS ": "LF,CF"
     },
     {
         "Name": "David DeJesus",
@@ -6171,8 +6171,8 @@
         "OBP": 0.322,
         "SLG": 0.383,
         "OPS": 0.705,
-        " Team ": "TB",
-        " POS ": "LF,DH"
+        "Team ": "TB",
+        "POS ": "LF,DH"
     },
     {
         "Name": "Justin Ruggiano",
@@ -6196,8 +6196,8 @@
         "OBP": 0.311,
         "SLG": 0.408,
         "OPS": 0.719,
-        " Team ": "SEA",
-        " POS ": "LF,CF,RF"
+        "Team ": "SEA",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Andre Ethier",
@@ -6221,8 +6221,8 @@
         "OBP": 0.326,
         "SLG": 0.392,
         "OPS": 0.718,
-        " Team ": "LAD",
-        " POS ": "LF,CF,RF"
+        "Team ": "LAD",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Nick Franklin",
@@ -6246,8 +6246,8 @@
         "OBP": 0.3,
         "SLG": 0.36,
         "OPS": 0.661,
-        " Team ": "TB",
-        " POS ": "2B,SS"
+        "Team ": "TB",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Robinson Chirinos",
@@ -6271,8 +6271,8 @@
         "OBP": 0.287,
         "SLG": 0.396,
         "OPS": 0.683,
-        " Team ": "TEX",
-        " POS ": "C"
+        "Team ": "TEX",
+        "POS ": "C"
     },
     {
         "Name": "Darin Ruf",
@@ -6296,8 +6296,8 @@
         "OBP": 0.309,
         "SLG": 0.426,
         "OPS": 0.735,
-        " Team ": "PHI",
-        " POS ": "1B,LF"
+        "Team ": "PHI",
+        "POS ": "1B,LF"
     },
     {
         "Name": "Didi Gregorius",
@@ -6321,8 +6321,8 @@
         "OBP": 0.303,
         "SLG": 0.366,
         "OPS": 0.669,
-        " Team ": "NYY",
-        " POS ": "2B,SS"
+        "Team ": "NYY",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Nick Swisher",
@@ -6346,8 +6346,8 @@
         "OBP": 0.316,
         "SLG": 0.386,
         "OPS": 0.703,
-        " Team ": "CLE",
-        " POS ": "1B,DH"
+        "Team ": "CLE",
+        "POS ": "1B,DH"
     },
     {
         "Name": "Jonathan Schoop",
@@ -6371,8 +6371,8 @@
         "OBP": 0.257,
         "SLG": 0.365,
         "OPS": 0.622,
-        " Team ": "BAL",
-        " POS ": "2B,3B"
+        "Team ": "BAL",
+        "POS ": "2B,3B"
     },
     {
         "Name": "Yonder Alonso",
@@ -6396,8 +6396,8 @@
         "OBP": 0.328,
         "SLG": 0.4,
         "OPS": 0.727,
-        " Team ": "SD",
-        " POS ": "1B"
+        "Team ": "SD",
+        "POS ": "1B"
     },
     {
         "Name": "Alexi Amarista",
@@ -6421,8 +6421,8 @@
         "OBP": 0.287,
         "SLG": 0.329,
         "OPS": 0.616,
-        " Team ": "SD",
-        " POS ": "2B,3B,SS,CF"
+        "Team ": "SD",
+        "POS ": "2B,3B,SS,CF"
     },
     {
         "Name": "Alberto Callaspo",
@@ -6446,8 +6446,8 @@
         "OBP": 0.318,
         "SLG": 0.335,
         "OPS": 0.653,
-        " Team ": "ATL",
-        " POS ": "1B,2B,3B,DH"
+        "Team ": "ATL",
+        "POS ": "1B,2B,3B,DH"
     },
     {
         "Name": "Ike Davis",
@@ -6471,8 +6471,8 @@
         "OBP": 0.337,
         "SLG": 0.398,
         "OPS": 0.735,
-        " Team ": "OAK",
-        " POS ": "1B"
+        "Team ": "OAK",
+        "POS ": "1B"
     },
     {
         "Name": "Corey Hart",
@@ -6496,8 +6496,8 @@
         "OBP": 0.298,
         "SLG": 0.41,
         "OPS": 0.708,
-        " Team ": "PIT",
-        " POS ": "RF,DH"
+        "Team ": "PIT",
+        "POS ": "RF,DH"
     },
     {
         "Name": "Mike Aviles",
@@ -6521,8 +6521,8 @@
         "OBP": 0.278,
         "SLG": 0.356,
         "OPS": 0.634,
-        " Team ": "CLE",
-        " POS ": "2B,3B,SS,LF"
+        "Team ": "CLE",
+        "POS ": "2B,3B,SS,LF"
     },
     {
         "Name": "Mitch Moreland",
@@ -6546,8 +6546,8 @@
         "OBP": 0.305,
         "SLG": 0.418,
         "OPS": 0.724,
-        " Team ": "TEX",
-        " POS ": "1B,DH"
+        "Team ": "TEX",
+        "POS ": "1B,DH"
     },
     {
         "Name": "Rene Rivera",
@@ -6571,8 +6571,8 @@
         "OBP": 0.294,
         "SLG": 0.385,
         "OPS": 0.679,
-        " Team ": "TB",
-        " POS ": "C"
+        "Team ": "TB",
+        "POS ": "C"
     },
     {
         "Name": "Ichiro Suzuki",
@@ -6596,8 +6596,8 @@
         "OBP": 0.303,
         "SLG": 0.338,
         "OPS": 0.641,
-        " Team ": "MIA",
-        " POS ": "LF,RF"
+        "Team ": "MIA",
+        "POS ": "LF,RF"
     },
     {
         "Name": "Zoilo Almonte",
@@ -6621,8 +6621,8 @@
         "OBP": 0.283,
         "SLG": 0.36,
         "OPS": 0.643,
-        " Team ": "ATL",
-        " POS ": "LF"
+        "Team ": "ATL",
+        "POS ": "LF"
     },
     {
         "Name": "Tyler Flowers",
@@ -6646,8 +6646,8 @@
         "OBP": 0.267,
         "SLG": 0.377,
         "OPS": 0.643,
-        " Team ": "CWS",
-        " POS ": "C"
+        "Team ": "CWS",
+        "POS ": "C"
     },
     {
         "Name": "Maikel Franco",
@@ -6671,8 +6671,8 @@
         "OBP": 0.281,
         "SLG": 0.365,
         "OPS": 0.646,
-        " Team ": "PHI",
-        " POS ": "3B"
+        "Team ": "PHI",
+        "POS ": "3B"
     },
     {
         "Name": "Brock Holt",
@@ -6696,8 +6696,8 @@
         "OBP": 0.327,
         "SLG": 0.374,
         "OPS": 0.701,
-        " Team ": "BOS",
-        " POS ": "1B,2B,3B,SS,LF,CF,RF"
+        "Team ": "BOS",
+        "POS ": "1B,2B,3B,SS,LF,CF,RF"
     },
     {
         "Name": "Sam Fuld",
@@ -6721,8 +6721,8 @@
         "OBP": 0.311,
         "SLG": 0.329,
         "OPS": 0.639,
-        " Team ": "OAK",
-        " POS ": "LF,CF,RF"
+        "Team ": "OAK",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Raul Ibanez",
@@ -6746,8 +6746,8 @@
         "OBP": 0.294,
         "SLG": 0.408,
         "OPS": 0.702,
-        " Team ": "KC",
-        " POS ": "LF,RF,DH"
+        "Team ": "KC",
+        "POS ": "LF,RF,DH"
     },
     {
         "Name": "Justin Smoak",
@@ -6771,8 +6771,8 @@
         "OBP": 0.312,
         "SLG": 0.395,
         "OPS": 0.707,
-        " Team ": "TOR",
-        " POS ": "1B"
+        "Team ": "TOR",
+        "POS ": "1B"
     },
     {
         "Name": "Ryan Doumit",
@@ -6796,8 +6796,8 @@
         "OBP": 0.294,
         "SLG": 0.399,
         "OPS": 0.693,
-        " Team ": "ATL",
-        " POS ": "LF,RF,C"
+        "Team ": "ATL",
+        "POS ": "LF,RF,C"
     },
     {
         "Name": "A.J. Pierzynski",
@@ -6821,8 +6821,8 @@
         "OBP": 0.283,
         "SLG": 0.378,
         "OPS": 0.661,
-        " Team ": "ATL",
-        " POS ": "C"
+        "Team ": "ATL",
+        "POS ": "C"
     },
     {
         "Name": "Robbie Grossman",
@@ -6846,8 +6846,8 @@
         "OBP": 0.327,
         "SLG": 0.352,
         "OPS": 0.679,
-        " Team ": "HOU",
-        " POS ": "LF,RF,CF"
+        "Team ": "HOU",
+        "POS ": "LF,RF,CF"
     },
     {
         "Name": "Nate Schierholtz",
@@ -6871,8 +6871,8 @@
         "OBP": 0.277,
         "SLG": 0.394,
         "OPS": 0.671,
-        " Team ": "WSH",
-        " POS ": "RF"
+        "Team ": "WSH",
+        "POS ": "RF"
     },
     {
         "Name": "Jake Marisnick",
@@ -6896,8 +6896,8 @@
         "OBP": 0.271,
         "SLG": 0.355,
         "OPS": 0.627,
-        " Team ": "HOU",
-        " POS ": "CF,RF"
+        "Team ": "HOU",
+        "POS ": "CF,RF"
     },
     {
         "Name": "Christian Bethancourt",
@@ -6921,8 +6921,8 @@
         "OBP": 0.274,
         "SLG": 0.332,
         "OPS": 0.606,
-        " Team ": "ATL",
-        " POS ": "C"
+        "Team ": "ATL",
+        "POS ": "C"
     },
     {
         "Name": "Eduardo Escobar",
@@ -6946,8 +6946,8 @@
         "OBP": 0.298,
         "SLG": 0.374,
         "OPS": 0.672,
-        " Team ": "MIN",
-        " POS ": "2B,3B,SS"
+        "Team ": "MIN",
+        "POS ": "2B,3B,SS"
     },
     {
         "Name": "Stephen Drew",
@@ -6971,8 +6971,8 @@
         "OBP": 0.294,
         "SLG": 0.368,
         "OPS": 0.662,
-        " Team ": "NYY",
-        " POS ": "2B,SS"
+        "Team ": "NYY",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Scott Van Slyke",
@@ -6996,8 +6996,8 @@
         "OBP": 0.341,
         "SLG": 0.462,
         "OPS": 0.803,
-        " Team ": "LAD",
-        " POS ": "1B,LF,CF,RF"
+        "Team ": "LAD",
+        "POS ": "1B,LF,CF,RF"
     },
     {
         "Name": "Ryan Ludwick",
@@ -7021,8 +7021,8 @@
         "OBP": 0.309,
         "SLG": 0.405,
         "OPS": 0.715,
-        " Team ": "CIN",
-        " POS ": "LF"
+        "Team ": "CIN",
+        "POS ": "LF"
     },
     {
         "Name": "Justin Turner",
@@ -7046,8 +7046,8 @@
         "OBP": 0.339,
         "SLG": 0.419,
         "OPS": 0.759,
-        " Team ": "LAD",
-        " POS ": "2B,3B,SS"
+        "Team ": "LAD",
+        "POS ": "2B,3B,SS"
     },
     {
         "Name": "Josh Phegley",
@@ -7071,8 +7071,8 @@
         "OBP": 0.276,
         "SLG": 0.399,
         "OPS": 0.675,
-        " Team ": "OAK",
-        " POS ": "C"
+        "Team ": "OAK",
+        "POS ": "C"
     },
     {
         "Name": "Gordon Beckham",
@@ -7096,8 +7096,8 @@
         "OBP": 0.288,
         "SLG": 0.359,
         "OPS": 0.647,
-        " Team ": "CWS",
-        " POS ": "2B,3B"
+        "Team ": "CWS",
+        "POS ": "2B,3B"
     },
     {
         "Name": "Will Middlebrooks",
@@ -7121,8 +7121,8 @@
         "OBP": 0.272,
         "SLG": 0.376,
         "OPS": 0.648,
-        " Team ": "SD",
-        " POS ": "3B"
+        "Team ": "SD",
+        "POS ": "3B"
     },
     {
         "Name": "Francisco Cervelli",
@@ -7146,8 +7146,8 @@
         "OBP": 0.302,
         "SLG": 0.362,
         "OPS": 0.664,
-        " Team ": "PIT",
-        " POS ": "C,1B"
+        "Team ": "PIT",
+        "POS ": "C,1B"
     },
     {
         "Name": "Christian Vazquez",
@@ -7171,8 +7171,8 @@
         "OBP": 0.309,
         "SLG": 0.335,
         "OPS": 0.644,
-        " Team ": "BOS",
-        " POS ": "C"
+        "Team ": "BOS",
+        "POS ": "C"
     },
     {
         "Name": "Nick Hundley",
@@ -7196,8 +7196,8 @@
         "OBP": 0.282,
         "SLG": 0.377,
         "OPS": 0.659,
-        " Team ": "COL",
-        " POS ": "C"
+        "Team ": "COL",
+        "POS ": "C"
     },
     {
         "Name": "Joey Gallo",
@@ -7221,8 +7221,8 @@
         "OBP": 0.299,
         "SLG": 0.454,
         "OPS": 0.752,
-        " Team ": "TEX",
-        " POS ": "3B"
+        "Team ": "TEX",
+        "POS ": "3B"
     },
     {
         "Name": "Grady Sizemore",
@@ -7246,8 +7246,8 @@
         "OBP": 0.297,
         "SLG": 0.362,
         "OPS": 0.659,
-        " Team ": "PHI",
-        " POS ": "LF,CF,RF"
+        "Team ": "PHI",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Jordan Schafer",
@@ -7271,8 +7271,8 @@
         "OBP": 0.306,
         "SLG": 0.318,
         "OPS": 0.624,
-        " Team ": "MIN",
-        " POS ": "LF,CF"
+        "Team ": "MIN",
+        "POS ": "LF,CF"
     },
     {
         "Name": "Francisco Lindor",
@@ -7296,8 +7296,8 @@
         "OBP": 0.307,
         "SLG": 0.335,
         "OPS": 0.642,
-        " Team ": "CLE",
-        " POS ": "SS"
+        "Team ": "CLE",
+        "POS ": "SS"
     },
     {
         "Name": "David Lough",
@@ -7321,8 +7321,8 @@
         "OBP": 0.299,
         "SLG": 0.384,
         "OPS": 0.683,
-        " Team ": "BAL",
-        " POS ": "LF,CF,RF"
+        "Team ": "BAL",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "J.P. Arencibia",
@@ -7346,8 +7346,8 @@
         "OBP": 0.237,
         "SLG": 0.385,
         "OPS": 0.622,
-        " Team ": "TEX",
-        " POS ": "C,1B"
+        "Team ": "TEX",
+        "POS ": "C,1B"
     },
     {
         "Name": "Marco Scutaro",
@@ -7371,8 +7371,8 @@
         "OBP": 0.35,
         "SLG": 0.379,
         "OPS": 0.728,
-        " Team ": "SF",
-        " POS ": "2B"
+        "Team ": "SF",
+        "POS ": "2B"
     },
     {
         "Name": "Randal Grichuk",
@@ -7396,8 +7396,8 @@
         "OBP": 0.273,
         "SLG": 0.402,
         "OPS": 0.675,
-        " Team ": "STL",
-        " POS ": "RF,LF"
+        "Team ": "STL",
+        "POS ": "RF,LF"
     },
     {
         "Name": "Ryan Rua",
@@ -7421,8 +7421,8 @@
         "OBP": 0.308,
         "SLG": 0.395,
         "OPS": 0.703,
-        " Team ": "TEX",
-        " POS ": "1B,LF"
+        "Team ": "TEX",
+        "POS ": "1B,LF"
     },
     {
         "Name": "Cody Ross",
@@ -7446,8 +7446,8 @@
         "OBP": 0.315,
         "SLG": 0.398,
         "OPS": 0.713,
-        " Team ": "ARI",
-        " POS ": "LF,RF,CF"
+        "Team ": "ARI",
+        "POS ": "LF,RF,CF"
     },
     {
         "Name": "Brandon Barnes",
@@ -7471,8 +7471,8 @@
         "OBP": 0.287,
         "SLG": 0.387,
         "OPS": 0.675,
-        " Team ": "COL",
-        " POS ": "LF,RF,CF"
+        "Team ": "COL",
+        "POS ": "LF,RF,CF"
     },
     {
         "Name": "Josmil Pinto",
@@ -7496,8 +7496,8 @@
         "OBP": 0.328,
         "SLG": 0.433,
         "OPS": 0.761,
-        " Team ": "MIN",
-        " POS ": "C,DH"
+        "Team ": "MIN",
+        "POS ": "C,DH"
     },
     {
         "Name": "Mark Reynolds",
@@ -7521,8 +7521,8 @@
         "OBP": 0.301,
         "SLG": 0.395,
         "OPS": 0.695,
-        " Team ": "STL",
-        " POS ": "1B,3B"
+        "Team ": "STL",
+        "POS ": "1B,3B"
     },
     {
         "Name": "Michael McKenry",
@@ -7546,8 +7546,8 @@
         "OBP": 0.34,
         "SLG": 0.446,
         "OPS": 0.786,
-        " Team ": "COL",
-        " POS ": "C"
+        "Team ": "COL",
+        "POS ": "C"
     },
     {
         "Name": "James Jones",
@@ -7571,8 +7571,8 @@
         "OBP": 0.291,
         "SLG": 0.329,
         "OPS": 0.62,
-        " Team ": "SEA",
-        " POS ": "CF,RF"
+        "Team ": "SEA",
+        "POS ": "CF,RF"
     },
     {
         "Name": "Matt Dominguez",
@@ -7596,8 +7596,8 @@
         "OBP": 0.275,
         "SLG": 0.372,
         "OPS": 0.647,
-        " Team ": "HOU",
-        " POS ": "3B"
+        "Team ": "HOU",
+        "POS ": "3B"
     },
     {
         "Name": "Eric Sogard",
@@ -7621,8 +7621,8 @@
         "OBP": 0.308,
         "SLG": 0.326,
         "OPS": 0.634,
-        " Team ": "OAK",
-        " POS ": "2B,SS"
+        "Team ": "OAK",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Nate McLouth",
@@ -7646,8 +7646,8 @@
         "OBP": 0.307,
         "SLG": 0.358,
         "OPS": 0.665,
-        " Team ": "WSH",
-        " POS ": "LF,CF,RF"
+        "Team ": "WSH",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Freddy Galvis",
@@ -7671,8 +7671,8 @@
         "OBP": 0.271,
         "SLG": 0.358,
         "OPS": 0.629,
-        " Team ": "PHI",
-        " POS ": "3B,SS"
+        "Team ": "PHI",
+        "POS ": "3B,SS"
     },
     {
         "Name": "Justin Maxwell",
@@ -7696,8 +7696,8 @@
         "OBP": 0.297,
         "SLG": 0.417,
         "OPS": 0.714,
-        " Team ": "KC",
-        " POS ": "CF,RF"
+        "Team ": "KC",
+        "POS ": "CF,RF"
     },
     {
         "Name": "Juan Francisco",
@@ -7721,8 +7721,8 @@
         "OBP": 0.284,
         "SLG": 0.416,
         "OPS": 0.7,
-        " Team ": "TOR",
-        " POS ": "1B,3B"
+        "Team ": "TOR",
+        "POS ": "1B,3B"
     },
     {
         "Name": "C.J. Cron",
@@ -7746,8 +7746,8 @@
         "OBP": 0.287,
         "SLG": 0.427,
         "OPS": 0.715,
-        " Team ": "LAA",
-        " POS ": "1B,DH"
+        "Team ": "LAA",
+        "POS ": "1B,DH"
     },
     {
         "Name": "Peter Bourjos",
@@ -7771,8 +7771,8 @@
         "OBP": 0.286,
         "SLG": 0.348,
         "OPS": 0.635,
-        " Team ": "STL",
-        " POS ": "CF"
+        "Team ": "STL",
+        "POS ": "CF"
     },
     {
         "Name": "Aaron Hicks",
@@ -7796,8 +7796,8 @@
         "OBP": 0.307,
         "SLG": 0.341,
         "OPS": 0.648,
-        " Team ": "MIN",
-        " POS ": "CF"
+        "Team ": "MIN",
+        "POS ": "CF"
     },
     {
         "Name": "Welington Castillo",
@@ -7821,8 +7821,8 @@
         "OBP": 0.304,
         "SLG": 0.389,
         "OPS": 0.693,
-        " Team ": "CHC",
-        " POS ": "C"
+        "Team ": "CHC",
+        "POS ": "C"
     },
     {
         "Name": "A.J. Ellis",
@@ -7846,8 +7846,8 @@
         "OBP": 0.328,
         "SLG": 0.337,
         "OPS": 0.665,
-        " Team ": "LAD",
-        " POS ": "C"
+        "Team ": "LAD",
+        "POS ": "C"
     },
     {
         "Name": "Devon Travis",
@@ -7871,8 +7871,8 @@
         "OBP": 0.323,
         "SLG": 0.4,
         "OPS": 0.723,
-        " Team ": "DET",
-        " POS ": "2B"
+        "Team ": "DET",
+        "POS ": "2B"
     },
     {
         "Name": "Jonathan Singleton",
@@ -7896,8 +7896,8 @@
         "OBP": 0.309,
         "SLG": 0.375,
         "OPS": 0.684,
-        " Team ": "HOU",
-        " POS ": "1B"
+        "Team ": "HOU",
+        "POS ": "1B"
     },
     {
         "Name": "Andy Dirks",
@@ -7921,8 +7921,8 @@
         "OBP": 0.338,
         "SLG": 0.391,
         "OPS": 0.729,
-        " Team ": "TOR",
-        " POS ": "LF,CF"
+        "Team ": "TOR",
+        "POS ": "LF,CF"
     },
     {
         "Name": "Michael Choice",
@@ -7946,8 +7946,8 @@
         "OBP": 0.286,
         "SLG": 0.358,
         "OPS": 0.644,
-        " Team ": "TEX",
-        " POS ": "LF,RF,CF"
+        "Team ": "TEX",
+        "POS ": "LF,RF,CF"
     },
     {
         "Name": "Brayan Pena",
@@ -7971,8 +7971,8 @@
         "OBP": 0.293,
         "SLG": 0.356,
         "OPS": 0.649,
-        " Team ": "CIN",
-        " POS ": "C,1B"
+        "Team ": "CIN",
+        "POS ": "C,1B"
     },
     {
         "Name": "Tyler Colvin",
@@ -7996,8 +7996,8 @@
         "OBP": 0.287,
         "SLG": 0.441,
         "OPS": 0.729,
-        " Team ": "SF",
-        " POS ": "LF"
+        "Team ": "SF",
+        "POS ": "LF"
     },
     {
         "Name": "Brandon Guyer",
@@ -8021,8 +8021,8 @@
         "OBP": 0.302,
         "SLG": 0.377,
         "OPS": 0.678,
-        " Team ": "TB",
-        " POS ": "LF,CF,RF"
+        "Team ": "TB",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Eduardo Nunez",
@@ -8046,8 +8046,8 @@
         "OBP": 0.29,
         "SLG": 0.366,
         "OPS": 0.657,
-        " Team ": "MIN",
-        " POS ": "3B,SS,LF"
+        "Team ": "MIN",
+        "POS ": "3B,SS,LF"
     },
     {
         "Name": "Jason Kubel",
@@ -8071,8 +8071,8 @@
         "OBP": 0.305,
         "SLG": 0.369,
         "OPS": 0.674,
-        " Team ": "MIN",
-        " POS ": "LF"
+        "Team ": "MIN",
+        "POS ": "LF"
     },
     {
         "Name": "Tommy La Stella",
@@ -8096,8 +8096,8 @@
         "OBP": 0.344,
         "SLG": 0.353,
         "OPS": 0.697,
-        " Team ": "CHC",
-        " POS ": "2B"
+        "Team ": "CHC",
+        "POS ": "2B"
     },
     {
         "Name": "Carlos Quentin",
@@ -8121,8 +8121,8 @@
         "OBP": 0.322,
         "SLG": 0.429,
         "OPS": 0.751,
-        " Team ": "SD",
-        " POS ": "LF"
+        "Team ": "SD",
+        "POS ": "LF"
     },
     {
         "Name": "Kirk Nieuwenhuis",
@@ -8146,8 +8146,8 @@
         "OBP": 0.302,
         "SLG": 0.39,
         "OPS": 0.692,
-        " Team ": "NYM",
-        " POS ": "LF,CF"
+        "Team ": "NYM",
+        "POS ": "LF,CF"
     },
     {
         "Name": "Mark Ellis",
@@ -8171,8 +8171,8 @@
         "OBP": 0.295,
         "SLG": 0.319,
         "OPS": 0.614,
-        " Team ": "STL",
-        " POS ": "2B"
+        "Team ": "STL",
+        "POS ": "2B"
     },
     {
         "Name": "Jesus Guzman",
@@ -8196,8 +8196,8 @@
         "OBP": 0.294,
         "SLG": 0.361,
         "OPS": 0.655,
-        " Team ": "HOU",
-        " POS ": "1B,LF"
+        "Team ": "HOU",
+        "POS ": "1B,LF"
     },
     {
         "Name": "John Mayberry",
@@ -8221,8 +8221,8 @@
         "OBP": 0.294,
         "SLG": 0.39,
         "OPS": 0.684,
-        " Team ": "NYM",
-        " POS ": "1B,LF,CF"
+        "Team ": "NYM",
+        "POS ": "1B,LF,CF"
     },
     {
         "Name": "Chris Heisey",
@@ -8246,8 +8246,8 @@
         "OBP": 0.275,
         "SLG": 0.382,
         "OPS": 0.656,
-        " Team ": "LAD",
-        " POS ": "LF,CF,RF"
+        "Team ": "LAD",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Tommy Medica",
@@ -8271,8 +8271,8 @@
         "OBP": 0.29,
         "SLG": 0.403,
         "OPS": 0.693,
-        " Team ": "SD",
-        " POS ": "1B,LF"
+        "Team ": "SD",
+        "POS ": "1B,LF"
     },
     {
         "Name": "Daniel Descalso",
@@ -8296,8 +8296,8 @@
         "OBP": 0.308,
         "SLG": 0.356,
         "OPS": 0.664,
-        " Team ": "COL",
-        " POS ": "2B,3B,SS"
+        "Team ": "COL",
+        "POS ": "2B,3B,SS"
     },
     {
         "Name": "Quintin Berry",
@@ -8321,8 +8321,8 @@
         "OBP": 0.323,
         "SLG": 0.388,
         "OPS": 0.711,
-        " Team ": "BAL",
-        " POS ": "CF,LF"
+        "Team ": "BAL",
+        "POS ": "CF,LF"
     },
     {
         "Name": "Michael Taylor",
@@ -8346,8 +8346,8 @@
         "OBP": 0.287,
         "SLG": 0.345,
         "OPS": 0.632,
-        " Team ": "CWS",
-        " POS ": "LF,RF"
+        "Team ": "CWS",
+        "POS ": "LF,RF"
     },
     {
         "Name": "Kelly Johnson",
@@ -8371,8 +8371,8 @@
         "OBP": 0.301,
         "SLG": 0.366,
         "OPS": 0.667,
-        " Team ": "BAL",
-        " POS ": "1B,3B"
+        "Team ": "BAL",
+        "POS ": "1B,3B"
     },
     {
         "Name": "Jordan Pacheco",
@@ -8396,8 +8396,8 @@
         "OBP": 0.304,
         "SLG": 0.357,
         "OPS": 0.66,
-        " Team ": "ARI",
-        " POS ": "C,1B"
+        "Team ": "ARI",
+        "POS ": "C,1B"
     },
     {
         "Name": "Ed Lucas",
@@ -8421,8 +8421,8 @@
         "OBP": 0.296,
         "SLG": 0.322,
         "OPS": 0.619,
-        " Team ": "MIA",
-        " POS ": "2B,SS,3B"
+        "Team ": "MIA",
+        "POS ": "2B,SS,3B"
     },
     {
         "Name": "Nyjer Morgan",
@@ -8446,8 +8446,8 @@
         "OBP": 0.314,
         "SLG": 0.338,
         "OPS": 0.652,
-        " Team ": "CLE",
-        " POS ": "CF"
+        "Team ": "CLE",
+        "POS ": "CF"
     },
     {
         "Name": "Hank Conger",
@@ -8471,8 +8471,8 @@
         "OBP": 0.291,
         "SLG": 0.354,
         "OPS": 0.645,
-        " Team ": "HOU",
-        " POS ": "C"
+        "Team ": "HOU",
+        "POS ": "C"
     },
     {
         "Name": "Logan Forsythe",
@@ -8496,8 +8496,8 @@
         "OBP": 0.298,
         "SLG": 0.35,
         "OPS": 0.648,
-        " Team ": "TB",
-        " POS ": "2B,DH"
+        "Team ": "TB",
+        "POS ": "2B,DH"
     },
     {
         "Name": "Jeff Baker",
@@ -8521,8 +8521,8 @@
         "OBP": 0.303,
         "SLG": 0.408,
         "OPS": 0.712,
-        " Team ": "MIA",
-        " POS ": "1B,2B"
+        "Team ": "MIA",
+        "POS ": "1B,2B"
     },
     {
         "Name": "Jose Tabata",
@@ -8546,8 +8546,8 @@
         "OBP": 0.316,
         "SLG": 0.363,
         "OPS": 0.679,
-        " Team ": "PIT",
-        " POS ": "LF,RF"
+        "Team ": "PIT",
+        "POS ": "LF,RF"
     },
     {
         "Name": "Eugenio Suarez",
@@ -8571,8 +8571,8 @@
         "OBP": 0.298,
         "SLG": 0.347,
         "OPS": 0.645,
-        " Team ": "CIN",
-        " POS ": "SS"
+        "Team ": "CIN",
+        "POS ": "SS"
     },
     {
         "Name": "Ryan Hanigan",
@@ -8596,8 +8596,8 @@
         "OBP": 0.325,
         "SLG": 0.327,
         "OPS": 0.652,
-        " Team ": "BOS",
-        " POS ": "C"
+        "Team ": "BOS",
+        "POS ": "C"
     },
     {
         "Name": "Geovany Soto",
@@ -8621,8 +8621,8 @@
         "OBP": 0.294,
         "SLG": 0.383,
         "OPS": 0.677,
-        " Team ": "OAK",
-        " POS ": "C"
+        "Team ": "OAK",
+        "POS ": "C"
     },
     {
         "Name": "Matt den Dekker",
@@ -8646,8 +8646,8 @@
         "OBP": 0.309,
         "SLG": 0.341,
         "OPS": 0.65,
-        " Team ": "NYM",
-        " POS ": "OF"
+        "Team ": "NYM",
+        "POS ": "OF"
     },
     {
         "Name": "Byron Buxton",
@@ -8671,8 +8671,8 @@
         "OBP": 0.307,
         "SLG": 0.397,
         "OPS": 0.704,
-        " Team ": "MIN",
-        " POS ": "CF,LF"
+        "Team ": "MIN",
+        "POS ": "CF,LF"
     },
     {
         "Name": "Collin Cowgill",
@@ -8696,8 +8696,8 @@
         "OBP": 0.291,
         "SLG": 0.334,
         "OPS": 0.625,
-        " Team ": "LAA",
-        " POS ": "LF,CF,RF"
+        "Team ": "LAA",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Jonathan Villar",
@@ -8721,8 +8721,8 @@
         "OBP": 0.29,
         "SLG": 0.338,
         "OPS": 0.628,
-        " Team ": "HOU",
-        " POS ": "SS"
+        "Team ": "HOU",
+        "POS ": "SS"
     },
     {
         "Name": "Scott Hairston",
@@ -8746,8 +8746,8 @@
         "OBP": 0.27,
         "SLG": 0.425,
         "OPS": 0.695,
-        " Team ": "WSH",
-        " POS ": "LF,RF"
+        "Team ": "WSH",
+        "POS ": "LF,RF"
     },
     {
         "Name": "Jurickson Profar",
@@ -8771,8 +8771,8 @@
         "OBP": 0.31,
         "SLG": 0.377,
         "OPS": 0.687,
-        " Team ": "TEX",
-        " POS ": "2B,SS"
+        "Team ": "TEX",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Skip Schumaker",
@@ -8796,8 +8796,8 @@
         "OBP": 0.308,
         "SLG": 0.336,
         "OPS": 0.645,
-        " Team ": "CIN",
-        " POS ": "2B,LF,CF,RF"
+        "Team ": "CIN",
+        "POS ": "2B,LF,CF,RF"
     },
     {
         "Name": "Grant Green",
@@ -8821,8 +8821,8 @@
         "OBP": 0.294,
         "SLG": 0.369,
         "OPS": 0.663,
-        " Team ": "LAA",
-        " POS ": "2B,LF"
+        "Team ": "LAA",
+        "POS ": "2B,LF"
     },
     {
         "Name": "Sean Rodriguez",
@@ -8846,8 +8846,8 @@
         "OBP": 0.274,
         "SLG": 0.385,
         "OPS": 0.659,
-        " Team ": "PIT",
-        " POS ": "1B,2B,3B,LF,DH"
+        "Team ": "PIT",
+        "POS ": "1B,2B,3B,LF,DH"
     },
     {
         "Name": "Elliot Johnson",
@@ -8871,8 +8871,8 @@
         "OBP": 0.27,
         "SLG": 0.316,
         "OPS": 0.586,
-        " Team ": "CLE",
-        " POS ": "RF,2B"
+        "Team ": "CLE",
+        "POS ": "RF,2B"
     },
     {
         "Name": "Jeff Francoeur",
@@ -8896,8 +8896,8 @@
         "OBP": 0.259,
         "SLG": 0.348,
         "OPS": 0.608,
-        " Team ": "SD",
-        " POS ": "RF"
+        "Team ": "SD",
+        "POS ": "RF"
     },
     {
         "Name": "Derek Dietrich",
@@ -8921,8 +8921,8 @@
         "OBP": 0.281,
         "SLG": 0.406,
         "OPS": 0.688,
-        " Team ": "MIA",
-        " POS ": "2B"
+        "Team ": "MIA",
+        "POS ": "2B"
     },
     {
         "Name": "Alexander Guerrero",
@@ -8946,8 +8946,8 @@
         "OBP": 0.291,
         "SLG": 0.354,
         "OPS": 0.645,
-        " Team ": "LAD",
-        " POS ": "LF,2B"
+        "Team ": "LAD",
+        "POS ": "LF,2B"
     },
     {
         "Name": "J.B. Shuck",
@@ -8971,8 +8971,8 @@
         "OBP": 0.303,
         "SLG": 0.331,
         "OPS": 0.634,
-        " Team ": "CWS",
-        " POS ": "LF"
+        "Team ": "CWS",
+        "POS ": "LF"
     },
     {
         "Name": "Danny Espinosa",
@@ -8996,8 +8996,8 @@
         "OBP": 0.263,
         "SLG": 0.343,
         "OPS": 0.606,
-        " Team ": "WSH",
-        " POS ": "2B,SS"
+        "Team ": "WSH",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Alex Presley",
@@ -9021,8 +9021,8 @@
         "OBP": 0.291,
         "SLG": 0.371,
         "OPS": 0.662,
-        " Team ": "HOU",
-        " POS ": "LF,CF,RF"
+        "Team ": "HOU",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Cliff Pennington",
@@ -9046,8 +9046,8 @@
         "OBP": 0.304,
         "SLG": 0.327,
         "OPS": 0.631,
-        " Team ": "ARI",
-        " POS ": "2B,3B,SS"
+        "Team ": "ARI",
+        "POS ": "2B,3B,SS"
     },
     {
         "Name": "Cesar Hernandez",
@@ -9071,8 +9071,8 @@
         "OBP": 0.306,
         "SLG": 0.33,
         "OPS": 0.637,
-        " Team ": "PHI",
-        " POS ": "2B,3B,CF"
+        "Team ": "PHI",
+        "POS ": "2B,3B,CF"
     },
     {
         "Name": "Dan Uggla",
@@ -9096,8 +9096,8 @@
         "OBP": 0.29,
         "SLG": 0.337,
         "OPS": 0.627,
-        " Team ": "SF",
-        " POS ": "2B"
+        "Team ": "SF",
+        "POS ": "2B"
     },
     {
         "Name": "Chris Parmelee",
@@ -9121,8 +9121,8 @@
         "OBP": 0.305,
         "SLG": 0.393,
         "OPS": 0.698,
-        " Team ": "MIN",
-        " POS ": "1B,LF,RF"
+        "Team ": "MIN",
+        "POS ": "1B,LF,RF"
     },
     {
         "Name": "Chris Colabello",
@@ -9146,8 +9146,8 @@
         "OBP": 0.287,
         "SLG": 0.398,
         "OPS": 0.685,
-        " Team ": "TOR",
-        " POS ": "1B,RF"
+        "Team ": "TOR",
+        "POS ": "1B,RF"
     },
     {
         "Name": "Junior Lake",
@@ -9171,8 +9171,8 @@
         "OBP": 0.278,
         "SLG": 0.383,
         "OPS": 0.66,
-        " Team ": "CHC",
-        " POS ": "LF,CF"
+        "Team ": "CHC",
+        "POS ": "LF,CF"
     },
     {
         "Name": "Mikie Mahtook",
@@ -9196,11 +9196,11 @@
         "OBP": 0.284,
         "SLG": 0.35,
         "OPS": 0.634,
-        " Team ": "TB",
-        " POS ": "CF,LF"
+        "Team ": "TB",
+        "POS ": "CF,LF"
     },
     {
-        "Name": "Jackie Bradley Jr.",
+        "Name": "Jackie Bradley",
         "FPTS": 56,
         "PPPA": 0.31,
         "AB": 165,
@@ -9221,8 +9221,8 @@
         "OBP": 0.279,
         "SLG": 0.335,
         "OPS": 0.614,
-        " Team ": "BOS",
-        " POS ": "CF,RF"
+        "Team ": "BOS",
+        "POS ": "CF,RF"
     },
     {
         "Name": "Willie Bloomquist",
@@ -9246,8 +9246,8 @@
         "OBP": 0.309,
         "SLG": 0.348,
         "OPS": 0.657,
-        " Team ": "SEA",
-        " POS ": "1B,2B,3B,SS"
+        "Team ": "SEA",
+        "POS ": "1B,2B,3B,SS"
     },
     {
         "Name": "Ryan Flaherty",
@@ -9271,8 +9271,8 @@
         "OBP": 0.276,
         "SLG": 0.369,
         "OPS": 0.645,
-        " Team ": "BAL",
-        " POS ": "2B,3B,SS"
+        "Team ": "BAL",
+        "POS ": "2B,3B,SS"
     },
     {
         "Name": "Erik Kratz",
@@ -9296,8 +9296,8 @@
         "OBP": 0.283,
         "SLG": 0.406,
         "OPS": 0.689,
-        " Team ": "KC",
-        " POS ": "C"
+        "Team ": "KC",
+        "POS ": "C"
     },
     {
         "Name": "Jimmy Paredes",
@@ -9321,8 +9321,8 @@
         "OBP": 0.27,
         "SLG": 0.331,
         "OPS": 0.601,
-        " Team ": "BAL",
-        " POS ": "3B,RF"
+        "Team ": "BAL",
+        "POS ": "3B,RF"
     },
     {
         "Name": "Ezequiel Carrera",
@@ -9346,8 +9346,8 @@
         "OBP": 0.293,
         "SLG": 0.349,
         "OPS": 0.643,
-        " Team ": "DET",
-        " POS ": "CF,LF"
+        "Team ": "DET",
+        "POS ": "CF,LF"
     },
     {
         "Name": "Rafael Furcal",
@@ -9371,8 +9371,8 @@
         "OBP": 0.31,
         "SLG": 0.35,
         "OPS": 0.66,
-        " Team ": "MIA",
-        " POS ": "2B,SS"
+        "Team ": "MIA",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Cameron Maybin",
@@ -9396,8 +9396,8 @@
         "OBP": 0.288,
         "SLG": 0.334,
         "OPS": 0.622,
-        " Team ": "SD",
-        " POS ": "CF"
+        "Team ": "SD",
+        "POS ": "CF"
     },
     {
         "Name": "Joaquin Arias",
@@ -9421,8 +9421,8 @@
         "OBP": 0.286,
         "SLG": 0.332,
         "OPS": 0.619,
-        " Team ": "SF",
-        " POS ": "1B,2B,3B,SS"
+        "Team ": "SF",
+        "POS ": "1B,2B,3B,SS"
     },
     {
         "Name": "Jose Lobaton",
@@ -9446,8 +9446,8 @@
         "OBP": 0.299,
         "SLG": 0.338,
         "OPS": 0.637,
-        " Team ": "WSH",
-        " POS ": "C"
+        "Team ": "WSH",
+        "POS ": "C"
     },
     {
         "Name": "Christian Colon",
@@ -9471,8 +9471,8 @@
         "OBP": 0.314,
         "SLG": 0.407,
         "OPS": 0.721,
-        " Team ": "KC",
-        " POS ": "2B"
+        "Team ": "KC",
+        "POS ": "2B"
     },
     {
         "Name": "Kyle Blanks",
@@ -9496,8 +9496,8 @@
         "OBP": 0.313,
         "SLG": 0.405,
         "OPS": 0.717,
-        " Team ": "OAK",
-        " POS ": "1B,RF"
+        "Team ": "OAK",
+        "POS ": "1B,RF"
     },
     {
         "Name": "Donovan Solano",
@@ -9521,8 +9521,8 @@
         "OBP": 0.304,
         "SLG": 0.336,
         "OPS": 0.64,
-        " Team ": "MIA",
-        " POS ": "2B"
+        "Team ": "MIA",
+        "POS ": "2B"
     },
     {
         "Name": "L.J. Hoes",
@@ -9546,8 +9546,8 @@
         "OBP": 0.296,
         "SLG": 0.339,
         "OPS": 0.635,
-        " Team ": "HOU",
-        " POS ": "LF,RF"
+        "Team ": "HOU",
+        "POS ": "LF,RF"
     },
     {
         "Name": "Reymond Fuentes",
@@ -9571,8 +9571,8 @@
         "OBP": 0.299,
         "SLG": 0.233,
         "OPS": 0.532,
-        " Team ": "KC",
-        " POS ": "CF"
+        "Team ": "KC",
+        "POS ": "CF"
     },
     {
         "Name": "Endy Chavez",
@@ -9596,8 +9596,8 @@
         "OBP": 0.291,
         "SLG": 0.327,
         "OPS": 0.618,
-        " Team ": "SEA",
-        " POS ": "LF,CF,RF"
+        "Team ": "SEA",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Jesus Montero",
@@ -9621,8 +9621,8 @@
         "OBP": 0.292,
         "SLG": 0.383,
         "OPS": 0.675,
-        " Team ": "SEA",
-        " POS ": "DH,C"
+        "Team ": "SEA",
+        "POS ": "DH,C"
     },
     {
         "Name": "Xavier Paul",
@@ -9646,8 +9646,8 @@
         "OBP": 0.324,
         "SLG": 0.397,
         "OPS": 0.721,
-        " Team ": "ARI",
-        " POS ": "LF"
+        "Team ": "ARI",
+        "POS ": "LF"
     },
     {
         "Name": "Ruben Tejada",
@@ -9671,8 +9671,8 @@
         "OBP": 0.314,
         "SLG": 0.32,
         "OPS": 0.634,
-        " Team ": "NYM",
-        " POS ": "SS"
+        "Team ": "NYM",
+        "POS ": "SS"
     },
     {
         "Name": "Blake Swihart",
@@ -9696,8 +9696,8 @@
         "OBP": 0.294,
         "SLG": 0.362,
         "OPS": 0.655,
-        " Team ": "BOS",
-        " POS ": "C"
+        "Team ": "BOS",
+        "POS ": "C"
     },
     {
         "Name": "Carlos Corporan",
@@ -9721,8 +9721,8 @@
         "OBP": 0.285,
         "SLG": 0.375,
         "OPS": 0.66,
-        " Team ": "TEX",
-        " POS ": "C"
+        "Team ": "TEX",
+        "POS ": "C"
     },
     {
         "Name": "Kevin Frandsen",
@@ -9746,8 +9746,8 @@
         "OBP": 0.295,
         "SLG": 0.35,
         "OPS": 0.645,
-        " Team ": "WSH",
-        " POS ": "1B,2B,3B,LF"
+        "Team ": "WSH",
+        "POS ": "1B,2B,3B,LF"
     },
     {
         "Name": "Stefen Romero",
@@ -9771,8 +9771,8 @@
         "OBP": 0.244,
         "SLG": 0.355,
         "OPS": 0.599,
-        " Team ": "SEA",
-        " POS ": "LF,RF"
+        "Team ": "SEA",
+        "POS ": "LF,RF"
     },
     {
         "Name": "Andrew Lambo",
@@ -9796,8 +9796,8 @@
         "OBP": 0.306,
         "SLG": 0.411,
         "OPS": 0.717,
-        " Team ": "PIT",
-        " POS ": "RF"
+        "Team ": "PIT",
+        "POS ": "RF"
     },
     {
         "Name": "Jordan Danks",
@@ -9821,8 +9821,8 @@
         "OBP": 0.305,
         "SLG": 0.354,
         "OPS": 0.66,
-        " Team ": "PHI",
-        " POS ": "LF,CF"
+        "Team ": "PHI",
+        "POS ": "LF,CF"
     },
     {
         "Name": "Brennan Boesch",
@@ -9846,8 +9846,8 @@
         "OBP": 0.27,
         "SLG": 0.411,
         "OPS": 0.681,
-        " Team ": "LAA",
-        " POS ": "DH,RF"
+        "Team ": "LAA",
+        "POS ": "DH,RF"
     },
     {
         "Name": "Tuffy Gosewisch",
@@ -9871,8 +9871,8 @@
         "OBP": 0.253,
         "SLG": 0.319,
         "OPS": 0.572,
-        " Team ": "ARI",
-        " POS ": "C"
+        "Team ": "ARI",
+        "POS ": "C"
     },
     {
         "Name": "Anthony Recker",
@@ -9896,8 +9896,8 @@
         "OBP": 0.266,
         "SLG": 0.366,
         "OPS": 0.632,
-        " Team ": "NYM",
-        " POS ": "C"
+        "Team ": "NYM",
+        "POS ": "C"
     },
     {
         "Name": "Martin Maldonado",
@@ -9921,8 +9921,8 @@
         "OBP": 0.273,
         "SLG": 0.347,
         "OPS": 0.621,
-        " Team ": "MIL",
-        " POS ": "C"
+        "Team ": "MIL",
+        "POS ": "C"
     },
     {
         "Name": "Ryan Sweeney",
@@ -9946,8 +9946,8 @@
         "OBP": 0.308,
         "SLG": 0.378,
         "OPS": 0.686,
-        " Team ": "CHC",
-        " POS ": "LF,CF,RF"
+        "Team ": "CHC",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Jordany Valdespin",
@@ -9971,8 +9971,8 @@
         "OBP": 0.284,
         "SLG": 0.379,
         "OPS": 0.663,
-        " Team ": "MIA",
-        " POS ": "2B,RF,CF"
+        "Team ": "MIA",
+        "POS ": "2B,RF,CF"
     },
     {
         "Name": "Charlie Culberson",
@@ -9996,8 +9996,8 @@
         "OBP": 0.269,
         "SLG": 0.35,
         "OPS": 0.619,
-        " Team ": "COL",
-        " POS ": "2B,3B,SS"
+        "Team ": "COL",
+        "POS ": "2B,3B,SS"
     },
     {
         "Name": "Xavier Avery",
@@ -10021,8 +10021,8 @@
         "OBP": 0.292,
         "SLG": 0.303,
         "OPS": 0.594,
-        " Team ": "SEA",
-        " POS ": "LF"
+        "Team ": "SEA",
+        "POS ": "LF"
     },
     {
         "Name": "Reed Johnson",
@@ -10046,8 +10046,8 @@
         "OBP": 0.275,
         "SLG": 0.362,
         "OPS": 0.637,
-        " Team ": "MIA",
-        " POS ": "LF,RF"
+        "Team ": "MIA",
+        "POS ": "LF,RF"
     },
     {
         "Name": "Andrew Brown",
@@ -10071,8 +10071,8 @@
         "OBP": 0.293,
         "SLG": 0.405,
         "OPS": 0.698,
-        " Team ": "NYM",
-        " POS ": "LF,RF"
+        "Team ": "NYM",
+        "POS ": "LF,RF"
     },
     {
         "Name": "Don Kelly",
@@ -10096,8 +10096,8 @@
         "OBP": 0.309,
         "SLG": 0.304,
         "OPS": 0.614,
-        " Team ": "DET",
-        " POS ": "1B,3B,LF,CF,RF"
+        "Team ": "DET",
+        "POS ": "1B,3B,LF,CF,RF"
     },
     {
         "Name": "Ryan Raburn",
@@ -10121,8 +10121,8 @@
         "OBP": 0.283,
         "SLG": 0.375,
         "OPS": 0.658,
-        " Team ": "CLE",
-        " POS ": "LF,RF,DH"
+        "Team ": "CLE",
+        "POS ": "LF,RF,DH"
     },
     {
         "Name": "John Buck",
@@ -10146,8 +10146,8 @@
         "OBP": 0.284,
         "SLG": 0.337,
         "OPS": 0.621,
-        " Team ": "LAA",
-        " POS ": "C"
+        "Team ": "LAA",
+        "POS ": "C"
     },
     {
         "Name": "Marwin Gonzalez",
@@ -10171,8 +10171,8 @@
         "OBP": 0.291,
         "SLG": 0.359,
         "OPS": 0.649,
-        " Team ": "HOU",
-        " POS ": "2B,3B,SS"
+        "Team ": "HOU",
+        "POS ": "2B,3B,SS"
     },
     {
         "Name": "Kristopher Negron",
@@ -10196,8 +10196,8 @@
         "OBP": 0.262,
         "SLG": 0.32,
         "OPS": 0.582,
-        " Team ": "CIN",
-        " POS ": "2B,3B"
+        "Team ": "CIN",
+        "POS ": "2B,3B"
     },
     {
         "Name": "Jemile Weeks",
@@ -10221,8 +10221,8 @@
         "OBP": 0.309,
         "SLG": 0.32,
         "OPS": 0.629,
-        " Team ": "BOS",
-        " POS ": "2B"
+        "Team ": "BOS",
+        "POS ": "2B"
     },
     {
         "Name": "Ryan Roberts",
@@ -10246,8 +10246,8 @@
         "OBP": 0.295,
         "SLG": 0.356,
         "OPS": 0.651,
-        " Team ": "BOS",
-        " POS ": "3B,2B"
+        "Team ": "BOS",
+        "POS ": "3B,2B"
     },
     {
         "Name": "Wil Nieves",
@@ -10271,8 +10271,8 @@
         "OBP": 0.294,
         "SLG": 0.351,
         "OPS": 0.645,
-        " Team ": "PHI",
-        " POS ": "C"
+        "Team ": "PHI",
+        "POS ": "C"
     },
     {
         "Name": "George Kottaras",
@@ -10296,8 +10296,8 @@
         "OBP": 0.343,
         "SLG": 0.416,
         "OPS": 0.759,
-        " Team ": "TOR",
-        " POS ": "C"
+        "Team ": "TOR",
+        "POS ": "C"
     },
     {
         "Name": "Danny Valencia",
@@ -10321,8 +10321,8 @@
         "OBP": 0.287,
         "SLG": 0.404,
         "OPS": 0.69,
-        " Team ": "TOR",
-        " POS ": "1B,3B"
+        "Team ": "TOR",
+        "POS ": "1B,3B"
     },
     {
         "Name": "Carlos Sanchez",
@@ -10346,8 +10346,8 @@
         "OBP": 0.289,
         "SLG": 0.319,
         "OPS": 0.608,
-        " Team ": "CWS",
-        " POS ": "2B"
+        "Team ": "CWS",
+        "POS ": "2B"
     },
     {
         "Name": "Carlos Peguero",
@@ -10371,8 +10371,8 @@
         "OBP": 0.259,
         "SLG": 0.41,
         "OPS": 0.668,
-        " Team ": "KC",
-        " POS ": "RF"
+        "Team ": "KC",
+        "POS ": "RF"
     },
     {
         "Name": "Mike Carp",
@@ -10396,8 +10396,8 @@
         "OBP": 0.317,
         "SLG": 0.386,
         "OPS": 0.703,
-        " Team ": "TEX",
-        " POS ": "1B,LF"
+        "Team ": "TEX",
+        "POS ": "1B,LF"
     },
     {
         "Name": "David Ross",
@@ -10421,8 +10421,8 @@
         "OBP": 0.283,
         "SLG": 0.377,
         "OPS": 0.661,
-        " Team ": "CHC",
-        " POS ": "C"
+        "Team ": "CHC",
+        "POS ": "C"
     },
     {
         "Name": "Phil Gosselin",
@@ -10446,8 +10446,8 @@
         "OBP": 0.287,
         "SLG": 0.322,
         "OPS": 0.61,
-        " Team ": "ATL",
-        " POS ": "2B,3B,SS"
+        "Team ": "ATL",
+        "POS ": "2B,3B,SS"
     },
     {
         "Name": "Ramon Flores",
@@ -10471,8 +10471,8 @@
         "OBP": 0.313,
         "SLG": 0.38,
         "OPS": 0.693,
-        " Team ": "NYY",
-        " POS ": "LF"
+        "Team ": "NYY",
+        "POS ": "LF"
     },
     {
         "Name": "Pedro Ciriaco",
@@ -10496,8 +10496,8 @@
         "OBP": 0.282,
         "SLG": 0.334,
         "OPS": 0.616,
-        " Team ": "KC",
-        " POS ": "2B,SS"
+        "Team ": "KC",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Chris Stewart",
@@ -10521,8 +10521,8 @@
         "OBP": 0.297,
         "SLG": 0.293,
         "OPS": 0.59,
-        " Team ": "PIT",
-        " POS ": "C"
+        "Team ": "PIT",
+        "POS ": "C"
     },
     {
         "Name": "Ronny Cedeno",
@@ -10546,8 +10546,8 @@
         "OBP": 0.285,
         "SLG": 0.343,
         "OPS": 0.628,
-        " Team ": "PHI",
-        " POS ": "SS"
+        "Team ": "PHI",
+        "POS ": "SS"
     },
     {
         "Name": "Moises Sierra",
@@ -10571,8 +10571,8 @@
         "OBP": 0.288,
         "SLG": 0.363,
         "OPS": 0.651,
-        " Team ": "KC",
-        " POS ": "RF,LF"
+        "Team ": "KC",
+        "POS ": "RF,LF"
     },
     {
         "Name": "Steven Moya",
@@ -10596,8 +10596,8 @@
         "OBP": 0.264,
         "SLG": 0.413,
         "OPS": 0.677,
-        " Team ": "DET",
-        " POS ": "RF,LF"
+        "Team ": "DET",
+        "POS ": "RF,LF"
     },
     {
         "Name": "Chris Gimenez",
@@ -10621,8 +10621,8 @@
         "OBP": 0.319,
         "SLG": 0.328,
         "OPS": 0.647,
-        " Team ": "CLE",
-        " POS ": "C,1B"
+        "Team ": "CLE",
+        "POS ": "C,1B"
     },
     {
         "Name": "Jim Adduci",
@@ -10646,8 +10646,8 @@
         "OBP": 0.262,
         "SLG": 0.243,
         "OPS": 0.505,
-        " Team ": "TEX",
-        " POS ": "LF"
+        "Team ": "TEX",
+        "POS ": "LF"
     },
     {
         "Name": "Chris Dickerson",
@@ -10671,8 +10671,8 @@
         "OBP": 0.298,
         "SLG": 0.388,
         "OPS": 0.686,
-        " Team ": "CLE",
-        " POS ": "LF,RF,DH"
+        "Team ": "CLE",
+        "POS ": "LF,RF,DH"
     },
     {
         "Name": "Kevin Kouzmanoff",
@@ -10696,8 +10696,8 @@
         "OBP": 0.308,
         "SLG": 0.477,
         "OPS": 0.785,
-        " Team ": "TEX",
-        " POS ": "3B"
+        "Team ": "TEX",
+        "POS ": "3B"
     },
     {
         "Name": "Andrew Romine",
@@ -10721,8 +10721,8 @@
         "OBP": 0.289,
         "SLG": 0.302,
         "OPS": 0.591,
-        " Team ": "DET",
-        " POS ": "2B,SS"
+        "Team ": "DET",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Luis Sardinas",
@@ -10746,8 +10746,8 @@
         "OBP": 0.281,
         "SLG": 0.31,
         "OPS": 0.591,
-        " Team ": "MIL",
-        " POS ": "2B,SS"
+        "Team ": "MIL",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Jason Pridie",
@@ -10771,8 +10771,8 @@
         "OBP": 0.133,
         "SLG": 0.134,
         "OPS": 0.267,
-        " Team ": "COL",
-        " POS ": "LF"
+        "Team ": "COL",
+        "POS ": "LF"
     },
     {
         "Name": "Darwin Barney",
@@ -10796,8 +10796,8 @@
         "OBP": 0.277,
         "SLG": 0.325,
         "OPS": 0.602,
-        " Team ": "LAD",
-        " POS ": "2B"
+        "Team ": "LAD",
+        "POS ": "2B"
     },
     {
         "Name": "Maicer Izturis",
@@ -10821,8 +10821,8 @@
         "OBP": 0.297,
         "SLG": 0.32,
         "OPS": 0.617,
-        " Team ": "TOR",
-        " POS ": "2B"
+        "Team ": "TOR",
+        "POS ": "2B"
     },
     {
         "Name": "Tim Federowicz",
@@ -10846,8 +10846,8 @@
         "OBP": 0.269,
         "SLG": 0.334,
         "OPS": 0.603,
-        " Team ": "SD",
-        " POS ": "C"
+        "Team ": "SD",
+        "POS ": "C"
     },
     {
         "Name": "Hector Sanchez",
@@ -10871,8 +10871,8 @@
         "OBP": 0.269,
         "SLG": 0.329,
         "OPS": 0.598,
-        " Team ": "SF",
-        " POS ": "C"
+        "Team ": "SF",
+        "POS ": "C"
     },
     {
         "Name": "Ryan Kalish",
@@ -10896,8 +10896,8 @@
         "OBP": 0.278,
         "SLG": 0.339,
         "OPS": 0.617,
-        " Team ": "CHC",
-        " POS ": "LF,CF,RF"
+        "Team ": "CHC",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Rymer Liriano",
@@ -10921,8 +10921,8 @@
         "OBP": 0.285,
         "SLG": 0.309,
         "OPS": 0.594,
-        " Team ": "SD",
-        " POS ": "RF"
+        "Team ": "SD",
+        "POS ": "RF"
     },
     {
         "Name": "Adam Rosales",
@@ -10946,8 +10946,8 @@
         "OBP": 0.289,
         "SLG": 0.351,
         "OPS": 0.64,
-        " Team ": "TEX",
-        " POS ": "1B,2B,3B"
+        "Team ": "TEX",
+        "POS ": "1B,2B,3B"
     },
     {
         "Name": "Lyle Overbay",
@@ -10971,8 +10971,8 @@
         "OBP": 0.31,
         "SLG": 0.359,
         "OPS": 0.669,
-        " Team ": "MIL",
-        " POS ": "1B"
+        "Team ": "MIL",
+        "POS ": "1B"
     },
     {
         "Name": "Addison Russell",
@@ -10996,8 +10996,8 @@
         "OBP": 0.317,
         "SLG": 0.424,
         "OPS": 0.741,
-        " Team ": "OAK",
-        " POS ": "SS"
+        "Team ": "OAK",
+        "POS ": "SS"
     },
     {
         "Name": "Mike Olt",
@@ -11021,8 +11021,8 @@
         "OBP": 0.273,
         "SLG": 0.364,
         "OPS": 0.637,
-        " Team ": "CHC",
-        " POS ": "1B,3B"
+        "Team ": "CHC",
+        "POS ": "1B,3B"
     },
     {
         "Name": "Marc Krauss",
@@ -11046,8 +11046,8 @@
         "OBP": 0.283,
         "SLG": 0.349,
         "OPS": 0.632,
-        " Team ": "LAA",
-        " POS ": "1B,LF"
+        "Team ": "LAA",
+        "POS ": "1B,LF"
     },
     {
         "Name": "Tony Campana",
@@ -11071,8 +11071,8 @@
         "OBP": 0.282,
         "SLG": 0.283,
         "OPS": 0.566,
-        " Team ": "LAA",
-        " POS ": "CF"
+        "Team ": "LAA",
+        "POS ": "CF"
     },
     {
         "Name": "Pedro Florimon",
@@ -11096,8 +11096,8 @@
         "OBP": 0.265,
         "SLG": 0.298,
         "OPS": 0.563,
-        " Team ": "PIT",
-        " POS ": "SS"
+        "Team ": "PIT",
+        "POS ": "SS"
     },
     {
         "Name": "Roger Bernadina",
@@ -11121,8 +11121,8 @@
         "OBP": 0.29,
         "SLG": 0.332,
         "OPS": 0.623,
-        " Team ": "LAD",
-        " POS ": "LF,CF,RF"
+        "Team ": "LAD",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Hernan Perez",
@@ -11146,8 +11146,8 @@
         "OBP": 0.281,
         "SLG": 0.306,
         "OPS": 0.587,
-        " Team ": "DET",
-        " POS ": "2B"
+        "Team ": "DET",
+        "POS ": "2B"
     },
     {
         "Name": "Bryan Holaday",
@@ -11171,8 +11171,8 @@
         "OBP": 0.277,
         "SLG": 0.303,
         "OPS": 0.58,
-        " Team ": "DET",
-        " POS ": "C"
+        "Team ": "DET",
+        "POS ": "C"
     },
     {
         "Name": "Todd Cunningham",
@@ -11196,8 +11196,8 @@
         "OBP": 0.287,
         "SLG": 0.311,
         "OPS": 0.597,
-        " Team ": "ATL",
-        " POS ": "LF,CF"
+        "Team ": "ATL",
+        "POS ": "LF,CF"
     },
     {
         "Name": "Logan Schafer",
@@ -11221,8 +11221,8 @@
         "OBP": 0.283,
         "SLG": 0.333,
         "OPS": 0.616,
-        " Team ": "MIL",
-        " POS ": "LF,CF,RF"
+        "Team ": "MIL",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Chris Herrmann",
@@ -11246,8 +11246,8 @@
         "OBP": 0.276,
         "SLG": 0.312,
         "OPS": 0.588,
-        " Team ": "MIN",
-        " POS ": "LF,RF,C"
+        "Team ": "MIN",
+        "POS ": "LF,RF,C"
     },
     {
         "Name": "Cole Gillespie",
@@ -11271,8 +11271,8 @@
         "OBP": 0.294,
         "SLG": 0.305,
         "OPS": 0.599,
-        " Team ": "TOR",
-        " POS ": "LF,RF"
+        "Team ": "TOR",
+        "POS ": "LF,RF"
     },
     {
         "Name": "Kelly Dugan",
@@ -11296,8 +11296,8 @@
         "OBP": 0.308,
         "SLG": 0.383,
         "OPS": 0.69,
-        " Team ": "PHI",
-        " POS ": "CF,RF"
+        "Team ": "PHI",
+        "POS ": "CF,RF"
     },
     {
         "Name": "Tony Sanchez",
@@ -11321,8 +11321,8 @@
         "OBP": 0.285,
         "SLG": 0.363,
         "OPS": 0.648,
-        " Team ": "PIT",
-        " POS ": "C"
+        "Team ": "PIT",
+        "POS ": "C"
     },
     {
         "Name": "Abraham Almonte",
@@ -11346,8 +11346,8 @@
         "OBP": 0.286,
         "SLG": 0.354,
         "OPS": 0.639,
-        " Team ": "SD",
-        " POS ": "LF,CF"
+        "Team ": "SD",
+        "POS ": "LF,CF"
     },
     {
         "Name": "Chris Nelson",
@@ -11371,8 +11371,8 @@
         "OBP": 0.304,
         "SLG": 0.355,
         "OPS": 0.659,
-        " Team ": "SD",
-        " POS ": "3B"
+        "Team ": "SD",
+        "POS ": "3B"
     },
     {
         "Name": "Tony Gwynn Jr.",
@@ -11396,8 +11396,8 @@
         "OBP": 0.28,
         "SLG": 0.285,
         "OPS": 0.565,
-        " Team ": "PHI",
-        " POS ": "LF,CF"
+        "Team ": "PHI",
+        "POS ": "LF,CF"
     },
     {
         "Name": "Nick Punto",
@@ -11421,8 +11421,8 @@
         "OBP": 0.316,
         "SLG": 0.311,
         "OPS": 0.627,
-        " Team ": "OAK",
-        " POS ": "2B,SS"
+        "Team ": "OAK",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Jose Molina",
@@ -11446,8 +11446,8 @@
         "OBP": 0.262,
         "SLG": 0.266,
         "OPS": 0.527,
-        " Team ": "TB",
-        " POS ": "C"
+        "Team ": "TB",
+        "POS ": "C"
     },
     {
         "Name": "Tony Cruz",
@@ -11471,8 +11471,8 @@
         "OBP": 0.265,
         "SLG": 0.305,
         "OPS": 0.57,
-        " Team ": "STL",
-        " POS ": "C"
+        "Team ": "STL",
+        "POS ": "C"
     },
     {
         "Name": "Rob Brantly",
@@ -11496,8 +11496,8 @@
         "OBP": 0.291,
         "SLG": 0.327,
         "OPS": 0.618,
-        " Team ": "CWS",
-        " POS ": "C"
+        "Team ": "CWS",
+        "POS ": "C"
     },
     {
         "Name": "Elian Herrera",
@@ -11521,8 +11521,8 @@
         "OBP": 0.296,
         "SLG": 0.332,
         "OPS": 0.628,
-        " Team ": "MIL",
-        " POS ": "3B,SS,RF,LF"
+        "Team ": "MIL",
+        "POS ": "3B,SS,RF,LF"
     },
     {
         "Name": "Adrian Nieto",
@@ -11546,8 +11546,8 @@
         "OBP": 0.283,
         "SLG": 0.34,
         "OPS": 0.623,
-        " Team ": "CWS",
-        " POS ": "C"
+        "Team ": "CWS",
+        "POS ": "C"
     },
     {
         "Name": "Luis Jimenez",
@@ -11571,8 +11571,8 @@
         "OBP": 0.264,
         "SLG": 0.334,
         "OPS": 0.598,
-        " Team ": "MIL",
-        " POS ": "3B"
+        "Team ": "MIL",
+        "POS ": "3B"
     },
     {
         "Name": "Darin Mastroianni",
@@ -11596,8 +11596,8 @@
         "OBP": 0.267,
         "SLG": 0.315,
         "OPS": 0.583,
-        " Team ": "TOR",
-        " POS ": "RF,CF,LF"
+        "Team ": "TOR",
+        "POS ": "RF,CF,LF"
     },
     {
         "Name": "Donnie Murphy",
@@ -11621,8 +11621,8 @@
         "OBP": 0.277,
         "SLG": 0.399,
         "OPS": 0.676,
-        " Team ": "TEX",
-        " POS ": "1B,2B"
+        "Team ": "TEX",
+        "POS ": "1B,2B"
     },
     {
         "Name": "Tyler Austin",
@@ -11646,8 +11646,8 @@
         "OBP": 0.303,
         "SLG": 0.386,
         "OPS": 0.689,
-        " Team ": "NYY",
-        " POS ": "RF,LF"
+        "Team ": "NYY",
+        "POS ": "RF,LF"
     },
     {
         "Name": "Munenori Kawasaki",
@@ -11671,8 +11671,8 @@
         "OBP": 0.313,
         "SLG": 0.292,
         "OPS": 0.604,
-        " Team ": "TOR",
-        " POS ": "2B,3B"
+        "Team ": "TOR",
+        "POS ": "2B,3B"
     },
     {
         "Name": "Bryce Brentz",
@@ -11696,8 +11696,8 @@
         "OBP": 0.307,
         "SLG": 0.388,
         "OPS": 0.695,
-        " Team ": "BOS",
-        " POS ": "LF"
+        "Team ": "BOS",
+        "POS ": "LF"
     },
     {
         "Name": "Domingo Santana",
@@ -11721,8 +11721,8 @@
         "OBP": 0.265,
         "SLG": 0.256,
         "OPS": 0.521,
-        " Team ": "HOU",
-        " POS ": "RF"
+        "Team ": "HOU",
+        "POS ": "RF"
     },
     {
         "Name": "Brandon Hicks",
@@ -11746,8 +11746,8 @@
         "OBP": 0.274,
         "SLG": 0.352,
         "OPS": 0.626,
-        " Team ": "SF",
-        " POS ": "2B"
+        "Team ": "SF",
+        "POS ": "2B"
     },
     {
         "Name": "Steve Tolleson",
@@ -11771,8 +11771,8 @@
         "OBP": 0.297,
         "SLG": 0.351,
         "OPS": 0.648,
-        " Team ": "TOR",
-        " POS ": "2B,3B"
+        "Team ": "TOR",
+        "POS ": "2B,3B"
     },
     {
         "Name": "Tony Abreu",
@@ -11796,8 +11796,8 @@
         "OBP": 0.281,
         "SLG": 0.401,
         "OPS": 0.682,
-        " Team ": "SF",
-        " POS ": "2B"
+        "Team ": "SF",
+        "POS ": "2B"
     },
     {
         "Name": "Matt Davidson",
@@ -11821,8 +11821,8 @@
         "OBP": 0.287,
         "SLG": 0.401,
         "OPS": 0.688,
-        " Team ": "CWS",
-        " POS ": "3B"
+        "Team ": "CWS",
+        "POS ": "3B"
     },
     {
         "Name": "Donald Lutz",
@@ -11846,8 +11846,8 @@
         "OBP": 0.26,
         "SLG": 0.342,
         "OPS": 0.601,
-        " Team ": "CIN",
-        " POS ": "1B,LF"
+        "Team ": "CIN",
+        "POS ": "1B,LF"
     },
     {
         "Name": "Johnny Giavotella",
@@ -11871,8 +11871,8 @@
         "OBP": 0.294,
         "SLG": 0.342,
         "OPS": 0.636,
-        " Team ": "LAA",
-        " POS ": "2B"
+        "Team ": "LAA",
+        "POS ": "2B"
     },
     {
         "Name": "Gary Brown",
@@ -11896,8 +11896,8 @@
         "OBP": 0.263,
         "SLG": 0.322,
         "OPS": 0.585,
-        " Team ": "SF",
-        " POS ": "CF"
+        "Team ": "SF",
+        "POS ": "CF"
     },
     {
         "Name": "Joey Terdoslavich",
@@ -11921,8 +11921,8 @@
         "OBP": 0.304,
         "SLG": 0.323,
         "OPS": 0.627,
-        " Team ": "ATL",
-        " POS ": "1B,RF,LF"
+        "Team ": "ATL",
+        "POS ": "1B,RF,LF"
     },
     {
         "Name": "Jerry Sands",
@@ -11946,8 +11946,8 @@
         "OBP": 0.297,
         "SLG": 0.347,
         "OPS": 0.644,
-        " Team ": "TB",
-        " POS ": "DH,LF"
+        "Team ": "TB",
+        "POS ": "DH,LF"
     },
     {
         "Name": "Kyle Parker",
@@ -11971,8 +11971,8 @@
         "OBP": 0.276,
         "SLG": 0.328,
         "OPS": 0.604,
-        " Team ": "COL",
-        " POS ": "RF,LF"
+        "Team ": "COL",
+        "POS ": "RF,LF"
     },
     {
         "Name": "Shane Robinson",
@@ -11996,8 +11996,8 @@
         "OBP": 0.311,
         "SLG": 0.319,
         "OPS": 0.63,
-        " Team ": "STL",
-        " POS ": "RF,CF"
+        "Team ": "STL",
+        "POS ": "RF,CF"
     },
     {
         "Name": "Steve Lombardozzi",
@@ -12021,8 +12021,8 @@
         "OBP": 0.293,
         "SLG": 0.328,
         "OPS": 0.621,
-        " Team ": "PIT",
-        " POS ": "2B"
+        "Team ": "PIT",
+        "POS ": "2B"
     },
     {
         "Name": "Efren Navarro",
@@ -12046,8 +12046,8 @@
         "OBP": 0.303,
         "SLG": 0.328,
         "OPS": 0.631,
-        " Team ": "LAA",
-        " POS ": "1B,LF"
+        "Team ": "LAA",
+        "POS ": "1B,LF"
     },
     {
         "Name": "Travis Ishikawa",
@@ -12071,8 +12071,8 @@
         "OBP": 0.295,
         "SLG": 0.366,
         "OPS": 0.662,
-        " Team ": "SF",
-        " POS ": "1B,LF"
+        "Team ": "SF",
+        "POS ": "1B,LF"
     },
     {
         "Name": "Jonathan Herrera",
@@ -12096,8 +12096,8 @@
         "OBP": 0.313,
         "SLG": 0.333,
         "OPS": 0.645,
-        " Team ": "BOS",
-        " POS ": "3B,SS"
+        "Team ": "BOS",
+        "POS ": "3B,SS"
     },
     {
         "Name": "Gerald Laird",
@@ -12121,8 +12121,8 @@
         "OBP": 0.308,
         "SLG": 0.325,
         "OPS": 0.633,
-        " Team ": "ATL",
-        " POS ": "C"
+        "Team ": "ATL",
+        "POS ": "C"
     },
     {
         "Name": "Tyler Saladino",
@@ -12146,8 +12146,8 @@
         "OBP": 0.304,
         "SLG": 0.352,
         "OPS": 0.656,
-        " Team ": "CWS",
-        " POS ": "SS"
+        "Team ": "CWS",
+        "POS ": "SS"
     },
     {
         "Name": "Jeff Mathis",
@@ -12171,8 +12171,8 @@
         "OBP": 0.254,
         "SLG": 0.3,
         "OPS": 0.553,
-        " Team ": "MIA",
-        " POS ": "C"
+        "Team ": "MIA",
+        "POS ": "C"
     },
     {
         "Name": "Nolan Reimold",
@@ -12196,8 +12196,8 @@
         "OBP": 0.287,
         "SLG": 0.408,
         "OPS": 0.696,
-        " Team ": "ARI",
-        " POS ": "RF,DH"
+        "Team ": "ARI",
+        "POS ": "RF,DH"
     },
     {
         "Name": "Humberto Quintero",
@@ -12221,8 +12221,8 @@
         "OBP": 0.256,
         "SLG": 0.338,
         "OPS": 0.594,
-        " Team ": "SEA",
-        " POS ": "C"
+        "Team ": "SEA",
+        "POS ": "C"
     },
     {
         "Name": "Ryan Goins",
@@ -12246,8 +12246,8 @@
         "OBP": 0.261,
         "SLG": 0.337,
         "OPS": 0.597,
-        " Team ": "TOR",
-        " POS ": "2B,SS"
+        "Team ": "TOR",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Pete Kozma",
@@ -12271,8 +12271,8 @@
         "OBP": 0.291,
         "SLG": 0.331,
         "OPS": 0.622,
-        " Team ": "STL",
-        " POS ": "SS"
+        "Team ": "STL",
+        "POS ": "SS"
     },
     {
         "Name": "Logan Watkins",
@@ -12296,8 +12296,8 @@
         "OBP": 0.259,
         "SLG": 0.308,
         "OPS": 0.567,
-        " Team ": "CHC",
-        " POS ": "2B"
+        "Team ": "CHC",
+        "POS ": "2B"
     },
     {
         "Name": "Jayson Nix",
@@ -12321,8 +12321,8 @@
         "OBP": 0.27,
         "SLG": 0.308,
         "OPS": 0.578,
-        " Team ": "KC",
-        " POS ": "2B,3B"
+        "Team ": "KC",
+        "POS ": "2B,3B"
     },
     {
         "Name": "Corey Brown",
@@ -12346,8 +12346,8 @@
         "OBP": 0.267,
         "SLG": 0.527,
         "OPS": 0.793,
-        " Team ": "BOS",
-        " POS ": "RF,LF"
+        "Team ": "BOS",
+        "POS ": "RF,LF"
     },
     {
         "Name": "Ryan Lavarnway",
@@ -12371,8 +12371,8 @@
         "OBP": 0.264,
         "SLG": 0.346,
         "OPS": 0.61,
-        " Team ": "BAL",
-        " POS ": "1B,C"
+        "Team ": "BAL",
+        "POS ": "1B,C"
     },
     {
         "Name": "J.R. Murphy",
@@ -12396,8 +12396,8 @@
         "OBP": 0.29,
         "SLG": 0.378,
         "OPS": 0.667,
-        " Team ": "NYY",
-        " POS ": "C"
+        "Team ": "NYY",
+        "POS ": "C"
     },
     {
         "Name": "Alexi Casilla",
@@ -12421,8 +12421,8 @@
         "OBP": 0.274,
         "SLG": 0.31,
         "OPS": 0.584,
-        " Team ": "BAL",
-        " POS ": "2B"
+        "Team ": "BAL",
+        "POS ": "2B"
     },
     {
         "Name": "Matthew Szczur",
@@ -12446,8 +12446,8 @@
         "OBP": 0.288,
         "SLG": 0.35,
         "OPS": 0.637,
-        " Team ": "CHC",
-        " POS ": "RF,CF"
+        "Team ": "CHC",
+        "POS ": "RF,CF"
     },
     {
         "Name": "Josh Thole",
@@ -12471,8 +12471,8 @@
         "OBP": 0.297,
         "SLG": 0.305,
         "OPS": 0.602,
-        " Team ": "TOR",
-        " POS ": "C"
+        "Team ": "TOR",
+        "POS ": "C"
     },
     {
         "Name": "Eric Fryer",
@@ -12496,8 +12496,8 @@
         "OBP": 0.284,
         "SLG": 0.358,
         "OPS": 0.642,
-        " Team ": "MIN",
-        " POS ": "C"
+        "Team ": "MIN",
+        "POS ": "C"
     },
     {
         "Name": "Steve Clevenger",
@@ -12521,8 +12521,8 @@
         "OBP": 0.285,
         "SLG": 0.315,
         "OPS": 0.6,
-        " Team ": "BAL",
-        " POS ": "C"
+        "Team ": "BAL",
+        "POS ": "C"
     },
     {
         "Name": "Taylor Teagarden",
@@ -12546,8 +12546,8 @@
         "OBP": 0.244,
         "SLG": 0.379,
         "OPS": 0.623,
-        " Team ": "NYM",
-        " POS ": "C"
+        "Team ": "NYM",
+        "POS ": "C"
     },
     {
         "Name": "Henry Urrutia",
@@ -12571,8 +12571,8 @@
         "OBP": 0.292,
         "SLG": 0.364,
         "OPS": 0.656,
-        " Team ": "BAL",
-        " POS ": "RF,DH"
+        "Team ": "BAL",
+        "POS ": "RF,DH"
     },
     {
         "Name": "Engel Beltre",
@@ -12596,8 +12596,8 @@
         "OBP": 0.267,
         "SLG": 0.288,
         "OPS": 0.555,
-        " Team ": "TEX",
-        " POS ": "CF,RF"
+        "Team ": "TEX",
+        "POS ": "CF,RF"
     },
     {
         "Name": "Ramon Santiago",
@@ -12621,8 +12621,8 @@
         "OBP": 0.31,
         "SLG": 0.316,
         "OPS": 0.626,
-        " Team ": "CIN",
-        " POS ": "2B,3B,SS"
+        "Team ": "CIN",
+        "POS ": "2B,3B,SS"
     },
     {
         "Name": "Jeff Kobernus",
@@ -12646,8 +12646,8 @@
         "OBP": 0.286,
         "SLG": 0.263,
         "OPS": 0.55,
-        " Team ": "WSH",
-        " POS ": "2B,LF"
+        "Team ": "WSH",
+        "POS ": "2B,LF"
     },
     {
         "Name": "Jason Bourgeois",
@@ -12671,8 +12671,8 @@
         "OBP": 0.282,
         "SLG": 0.292,
         "OPS": 0.574,
-        " Team ": "CIN",
-        " POS ": "LF,RF"
+        "Team ": "CIN",
+        "POS ": "LF,RF"
     },
     {
         "Name": "Cory Spangenberg",
@@ -12696,8 +12696,8 @@
         "OBP": 0.289,
         "SLG": 0.386,
         "OPS": 0.676,
-        " Team ": "SD",
-        " POS ": "3B,2B"
+        "Team ": "SD",
+        "POS ": "3B,2B"
     },
     {
         "Name": "Caleb Gindl",
@@ -12721,8 +12721,8 @@
         "OBP": 0.313,
         "SLG": 0.403,
         "OPS": 0.716,
-        " Team ": "MIL",
-        " POS ": "RF,LF"
+        "Team ": "MIL",
+        "POS ": "RF,LF"
     },
     {
         "Name": "Bobby Wilson",
@@ -12746,8 +12746,8 @@
         "OBP": 0.279,
         "SLG": 0.304,
         "OPS": 0.583,
-        " Team ": "ARI",
-        " POS ": "C"
+        "Team ": "ARI",
+        "POS ": "C"
     },
     {
         "Name": "Mike Baxter",
@@ -12771,8 +12771,8 @@
         "OBP": 0.305,
         "SLG": 0.352,
         "OPS": 0.657,
-        " Team ": "LAD",
-        " POS ": "LF,RF"
+        "Team ": "LAD",
+        "POS ": "LF,RF"
     },
     {
         "Name": "Chone Figgins",
@@ -12796,8 +12796,8 @@
         "OBP": 0.291,
         "SLG": 0.288,
         "OPS": 0.579,
-        " Team ": "LAD",
-        " POS ": "3B,LF"
+        "Team ": "LAD",
+        "POS ": "3B,LF"
     },
     {
         "Name": "Max Stassi",
@@ -12821,8 +12821,8 @@
         "OBP": 0.288,
         "SLG": 0.396,
         "OPS": 0.684,
-        " Team ": "HOU",
-        " POS ": "C,DH"
+        "Team ": "HOU",
+        "POS ": "C,DH"
     },
     {
         "Name": "Joey Butler",
@@ -12846,8 +12846,8 @@
         "OBP": 0.381,
         "SLG": 0.354,
         "OPS": 0.735,
-        " Team ": "STL",
-        " POS ": "RF,LF"
+        "Team ": "STL",
+        "POS ": "RF,LF"
     },
     {
         "Name": "Francisco Pena",
@@ -12871,8 +12871,8 @@
         "OBP": 0.264,
         "SLG": 0.247,
         "OPS": 0.511,
-        " Team ": "KC",
-        " POS ": "C"
+        "Team ": "KC",
+        "POS ": "C"
     },
     {
         "Name": "Audry Perez",
@@ -12896,8 +12896,8 @@
         "OBP": 0.5,
         "SLG": 0,
         "OPS": 0.5,
-        " Team ": "STL",
-        " POS ": "C"
+        "Team ": "STL",
+        "POS ": "C"
     },
     {
         "Name": "Austin Romine",
@@ -12921,8 +12921,8 @@
         "OBP": 0.267,
         "SLG": 0.294,
         "OPS": 0.562,
-        " Team ": "NYY",
-        " POS ": "C"
+        "Team ": "NYY",
+        "POS ": "C"
     },
     {
         "Name": "Adam Moore",
@@ -12946,8 +12946,8 @@
         "OBP": 0.279,
         "SLG": 0.305,
         "OPS": 0.584,
-        " Team ": "SD",
-        " POS ": "C"
+        "Team ": "SD",
+        "POS ": "C"
     },
     {
         "Name": "Eury Perez",
@@ -12971,8 +12971,8 @@
         "OBP": 0.274,
         "SLG": 0.255,
         "OPS": 0.529,
-        " Team ": "ATL",
-        " POS ": "CF"
+        "Team ": "ATL",
+        "POS ": "CF"
     },
     {
         "Name": "Alex Hassan",
@@ -12996,8 +12996,8 @@
         "OBP": 0.314,
         "SLG": 0.221,
         "OPS": 0.535,
-        " Team ": "BAL",
-        " POS ": "RF"
+        "Team ": "BAL",
+        "POS ": "RF"
     },
     {
         "Name": "Clint Barmes",
@@ -13021,8 +13021,8 @@
         "OBP": 0.259,
         "SLG": 0.301,
         "OPS": 0.561,
-        " Team ": "SD",
-        " POS ": "2B,SS"
+        "Team ": "SD",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Brett Hayes",
@@ -13046,8 +13046,8 @@
         "OBP": 0.233,
         "SLG": 0.317,
         "OPS": 0.55,
-        " Team ": "KC",
-        " POS ": "C"
+        "Team ": "KC",
+        "POS ": "C"
     },
     {
         "Name": "Tommy Joseph",
@@ -13071,8 +13071,8 @@
         "OBP": 0.27,
         "SLG": 0.371,
         "OPS": 0.641,
-        " Team ": "PHI",
-        " POS ": "C,1B"
+        "Team ": "PHI",
+        "POS ": "C,1B"
     },
     {
         "Name": "Xavier Nady",
@@ -13096,8 +13096,8 @@
         "OBP": 0.251,
         "SLG": 0.331,
         "OPS": 0.582,
-        " Team ": "SD",
-        " POS ": "LF"
+        "Team ": "SD",
+        "POS ": "LF"
     },
     {
         "Name": "Alfredo Marte",
@@ -13121,8 +13121,8 @@
         "OBP": 0.245,
         "SLG": 0.337,
         "OPS": 0.583,
-        " Team ": "ARI",
-        " POS ": "LF,RF"
+        "Team ": "ARI",
+        "POS ": "LF,RF"
     },
     {
         "Name": "Jose Constanza",
@@ -13146,8 +13146,8 @@
         "OBP": 0.291,
         "SLG": 0.273,
         "OPS": 0.564,
-        " Team ": "ATL",
-        " POS ": "LF"
+        "Team ": "ATL",
+        "POS ": "LF"
     },
     {
         "Name": "Ryan Wheeler",
@@ -13171,8 +13171,8 @@
         "OBP": 0.282,
         "SLG": 0.348,
         "OPS": 0.63,
-        " Team ": "COL",
-        " POS ": "3B,1B"
+        "Team ": "COL",
+        "POS ": "3B,1B"
     },
     {
         "Name": "Cameron Rupp",
@@ -13196,8 +13196,8 @@
         "OBP": 0.259,
         "SLG": 0.311,
         "OPS": 0.57,
-        " Team ": "PHI",
-        " POS ": "C"
+        "Team ": "PHI",
+        "POS ": "C"
     },
     {
         "Name": "Bryan Anderson",
@@ -13221,8 +13221,8 @@
         "OBP": 0.26,
         "SLG": 0.289,
         "OPS": 0.549,
-        " Team ": "OAK",
-        " POS ": "C"
+        "Team ": "OAK",
+        "POS ": "C"
     },
     {
         "Name": "Omar Quintanilla",
@@ -13246,8 +13246,8 @@
         "OBP": 0.301,
         "SLG": 0.312,
         "OPS": 0.613,
-        " Team ": "NYM",
-        " POS ": "SS"
+        "Team ": "NYM",
+        "POS ": "SS"
     },
     {
         "Name": "Brendan Ryan",
@@ -13271,8 +13271,8 @@
         "OBP": 0.255,
         "SLG": 0.267,
         "OPS": 0.523,
-        " Team ": "NYY",
-        " POS ": "2B,SS"
+        "Team ": "NYY",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Ramiro Pena",
@@ -13296,8 +13296,8 @@
         "OBP": 0.312,
         "SLG": 0.366,
         "OPS": 0.678,
-        " Team ": "ATL",
-        " POS ": "2B,3B,SS"
+        "Team ": "ATL",
+        "POS ": "2B,3B,SS"
     },
     {
         "Name": "Chris Valaika",
@@ -13321,8 +13321,8 @@
         "OBP": 0.274,
         "SLG": 0.345,
         "OPS": 0.619,
-        " Team ": "CHC",
-        " POS ": "1B,2B,3B"
+        "Team ": "CHC",
+        "POS ": "1B,2B,3B"
     },
     {
         "Name": "Chase d'Arnaud",
@@ -13346,8 +13346,8 @@
         "OBP": 0.207,
         "SLG": 0.116,
         "OPS": 0.322,
-        " Team ": "PIT",
-        " POS ": "SS,2B"
+        "Team ": "PIT",
+        "POS ": "SS,2B"
     },
     {
         "Name": "Scott Sizemore",
@@ -13371,8 +13371,8 @@
         "OBP": 0.296,
         "SLG": 0.401,
         "OPS": 0.697,
-        " Team ": "NYY",
-        " POS ": "3B,2B"
+        "Team ": "NYY",
+        "POS ": "3B,2B"
     },
     {
         "Name": "Yorman Rodriguez",
@@ -13396,8 +13396,8 @@
         "OBP": 0.264,
         "SLG": 0.27,
         "OPS": 0.534,
-        " Team ": "CIN",
-        " POS ": "CF"
+        "Team ": "CIN",
+        "POS ": "CF"
     },
     {
         "Name": "Jesus Sucre",
@@ -13421,8 +13421,8 @@
         "OBP": 0.245,
         "SLG": 0.257,
         "OPS": 0.502,
-        " Team ": "SEA",
-        " POS ": "C"
+        "Team ": "SEA",
+        "POS ": "C"
     },
     {
         "Name": "Irving Falu",
@@ -13446,8 +13446,8 @@
         "OBP": 0.312,
         "SLG": 0.292,
         "OPS": 0.603,
-        " Team ": "MIL",
-        " POS ": "2B,3B"
+        "Team ": "MIL",
+        "POS ": "2B,3B"
     },
     {
         "Name": "Jaff Decker",
@@ -13471,8 +13471,8 @@
         "OBP": 0.283,
         "SLG": 0.28,
         "OPS": 0.562,
-        " Team ": "PIT",
-        " POS ": "LF"
+        "Team ": "PIT",
+        "POS ": "LF"
     },
     {
         "Name": "Garin Cecchini",
@@ -13496,8 +13496,8 @@
         "OBP": 0.316,
         "SLG": 0.404,
         "OPS": 0.72,
-        " Team ": "BOS",
-        " POS ": "3B"
+        "Team ": "BOS",
+        "POS ": "3B"
     },
     {
         "Name": "Tommy Field",
@@ -13521,8 +13521,8 @@
         "OBP": 0.255,
         "SLG": 0.215,
         "OPS": 0.47,
-        " Team ": "LAA",
-        " POS ": "2B,SS"
+        "Team ": "LAA",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Mason Williams",
@@ -13546,8 +13546,8 @@
         "OBP": 0.274,
         "SLG": 0.32,
         "OPS": 0.594,
-        " Team ": "NYY",
-        " POS ": "CF,LF"
+        "Team ": "NYY",
+        "POS ": "CF,LF"
     },
     {
         "Name": "Jorge Polanco",
@@ -13571,8 +13571,8 @@
         "OBP": 0.322,
         "SLG": 0.594,
         "OPS": 0.916,
-        " Team ": "MIN",
-        " POS ": "SS,2B"
+        "Team ": "MIN",
+        "POS ": "SS,2B"
     },
     {
         "Name": "Lane Adams",
@@ -13596,8 +13596,8 @@
         "OBP": 0.264,
         "SLG": 0.182,
         "OPS": 0.446,
-        " Team ": "KC",
-        " POS ": "LF,CF,RF"
+        "Team ": "KC",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Leury Garcia",
@@ -13621,8 +13621,8 @@
         "OBP": 0.233,
         "SLG": 0.26,
         "OPS": 0.494,
-        " Team ": "CWS",
-        " POS ": "2B,3B,CF"
+        "Team ": "CWS",
+        "POS ": "2B,3B,CF"
     },
     {
         "Name": "Roger Kieschnick",
@@ -13646,8 +13646,8 @@
         "OBP": 0.264,
         "SLG": 0.312,
         "OPS": 0.576,
-        " Team ": "ARI",
-        " POS ": "LF"
+        "Team ": "ARI",
+        "POS ": "LF"
     },
     {
         "Name": "Sandy Leon",
@@ -13671,8 +13671,8 @@
         "OBP": 0.275,
         "SLG": 0.289,
         "OPS": 0.564,
-        " Team ": "WSH",
-        " POS ": "C"
+        "Team ": "WSH",
+        "POS ": "C"
     },
     {
         "Name": "Jacob Elmore",
@@ -13696,8 +13696,8 @@
         "OBP": 0.305,
         "SLG": 0.314,
         "OPS": 0.619,
-        " Team ": "PIT",
-        " POS ": "SS"
+        "Team ": "PIT",
+        "POS ": "SS"
     },
     {
         "Name": "Drew Butera",
@@ -13721,8 +13721,8 @@
         "OBP": 0.246,
         "SLG": 0.276,
         "OPS": 0.523,
-        " Team ": "LAA",
-        " POS ": "C"
+        "Team ": "LAA",
+        "POS ": "C"
     },
     {
         "Name": "Guillermo Quiroz",
@@ -13746,8 +13746,8 @@
         "OBP": 0.219,
         "SLG": 0.233,
         "OPS": 0.452,
-        " Team ": "SF",
-        " POS ": "C"
+        "Team ": "SF",
+        "POS ": "C"
     },
     {
         "Name": "Cord Phelps",
@@ -13771,8 +13771,8 @@
         "OBP": 0.224,
         "SLG": 0.2,
         "OPS": 0.424,
-        " Team ": "BAL",
-        " POS ": "2B"
+        "Team ": "BAL",
+        "POS ": "2B"
     },
     {
         "Name": "John Baker",
@@ -13796,8 +13796,8 @@
         "OBP": 0.279,
         "SLG": 0.246,
         "OPS": 0.525,
-        " Team ": "CHC",
-        " POS ": "C"
+        "Team ": "CHC",
+        "POS ": "C"
     },
     {
         "Name": "Jason Bartlett",
@@ -13821,8 +13821,8 @@
         "OBP": 0.281,
         "SLG": 0.239,
         "OPS": 0.52,
-        " Team ": "MIN",
-        " POS ": "LF,SS"
+        "Team ": "MIN",
+        "POS ": "LF,SS"
     },
     {
         "Name": "Josh Wilson",
@@ -13846,8 +13846,8 @@
         "OBP": 0.248,
         "SLG": 0.272,
         "OPS": 0.519,
-        " Team ": "TEX",
-        " POS ": "2B"
+        "Team ": "TEX",
+        "POS ": "2B"
     },
     {
         "Name": "Aaron Altherr",
@@ -13871,8 +13871,8 @@
         "OBP": 0.217,
         "SLG": 0.178,
         "OPS": 0.395,
-        " Team ": "PHI",
-        " POS ": "LF,CF"
+        "Team ": "PHI",
+        "POS ": "LF,CF"
     },
     {
         "Name": "Koyie Hill",
@@ -13896,8 +13896,8 @@
         "OBP": 0.242,
         "SLG": 0.225,
         "OPS": 0.466,
-        " Team ": "PHI",
-        " POS ": "C"
+        "Team ": "PHI",
+        "POS ": "C"
     },
     {
         "Name": "Brett Jackson",
@@ -13921,8 +13921,8 @@
         "OBP": 0.28,
         "SLG": 0.312,
         "OPS": 0.592,
-        " Team ": "ARI",
-        " POS ": "CF"
+        "Team ": "ARI",
+        "POS ": "CF"
     },
     {
         "Name": "Michael Martinez",
@@ -13946,8 +13946,8 @@
         "OBP": 0.203,
         "SLG": 0.202,
         "OPS": 0.405,
-        " Team ": "PIT",
-        " POS ": "2B,LF,CF"
+        "Team ": "PIT",
+        "POS ": "2B,LF,CF"
     },
     {
         "Name": "Jeff Bianchi",
@@ -13971,8 +13971,8 @@
         "OBP": 0.252,
         "SLG": 0.273,
         "OPS": 0.524,
-        " Team ": "MIL",
-        " POS ": "3B,SS"
+        "Team ": "MIL",
+        "POS ": "3B,SS"
     },
     {
         "Name": "Dean Anna",
@@ -13996,8 +13996,8 @@
         "OBP": 0.295,
         "SLG": 0.327,
         "OPS": 0.622,
-        " Team ": "STL",
-        " POS ": "SS"
+        "Team ": "STL",
+        "POS ": "SS"
     },
     {
         "Name": "Eli Whiteside",
@@ -14021,8 +14021,8 @@
         "OBP": 0.209,
         "SLG": 0.26,
         "OPS": 0.468,
-        " Team ": "CHC",
-        " POS ": "C"
+        "Team ": "CHC",
+        "POS ": "C"
     },
     {
         "Name": "Tyler Pastornicky",
@@ -14046,8 +14046,8 @@
         "OBP": 0.296,
         "SLG": 0.309,
         "OPS": 0.605,
-        " Team ": "ATL",
-        " POS ": "2B"
+        "Team ": "ATL",
+        "POS ": "2B"
     },
     {
         "Name": "Greg Garcia",
@@ -14071,8 +14071,8 @@
         "OBP": 0.286,
         "SLG": 0.283,
         "OPS": 0.568,
-        " Team ": "STL",
-        " POS ": "2B"
+        "Team ": "STL",
+        "POS ": "2B"
     },
     {
         "Name": "Cristhian Adames",
@@ -14096,8 +14096,8 @@
         "OBP": 0.043,
         "SLG": 0.034,
         "OPS": 0.077,
-        " Team ": "COL",
-        " POS ": "SS"
+        "Team ": "COL",
+        "POS ": "SS"
     },
     {
         "Name": "Jason Rogers",
@@ -14121,8 +14121,8 @@
         "OBP": 0.294,
         "SLG": 0.347,
         "OPS": 0.64,
-        " Team ": "MIL",
-        " POS ": "1B,3B"
+        "Team ": "MIL",
+        "POS ": "1B,3B"
     },
     {
         "Name": "Tucker Barnhart",
@@ -14146,8 +14146,8 @@
         "OBP": 0.254,
         "SLG": 0.276,
         "OPS": 0.53,
-        " Team ": "CIN",
-        " POS ": "C"
+        "Team ": "CIN",
+        "POS ": "C"
     },
     {
         "Name": "Tyler Moore",
@@ -14171,8 +14171,8 @@
         "OBP": 0.299,
         "SLG": 0.41,
         "OPS": 0.709,
-        " Team ": "WSH",
-        " POS ": "1B"
+        "Team ": "WSH",
+        "POS ": "1B"
     },
     {
         "Name": "Tim Beckham",
@@ -14196,8 +14196,8 @@
         "OBP": 0.276,
         "SLG": 0.378,
         "OPS": 0.654,
-        " Team ": "TB",
-        " POS ": "SS,2B"
+        "Team ": "TB",
+        "POS ": "SS,2B"
     },
     {
         "Name": "Carlos Triunfel",
@@ -14221,8 +14221,8 @@
         "OBP": 0.217,
         "SLG": 0.277,
         "OPS": 0.494,
-        " Team ": "LAD",
-        " POS ": "SS"
+        "Team ": "LAD",
+        "POS ": "SS"
     },
     {
         "Name": "Carlos Rivero",
@@ -14246,8 +14246,8 @@
         "OBP": 0.268,
         "SLG": 0.579,
         "OPS": 0.847,
-        " Team ": "SEA",
-        " POS ": "3B,SS"
+        "Team ": "SEA",
+        "POS ": "3B,SS"
     },
     {
         "Name": "Wilfredo Tovar",
@@ -14271,8 +14271,8 @@
         "OBP": 0.284,
         "SLG": 0.267,
         "OPS": 0.551,
-        " Team ": "NYM",
-        " POS ": "SS"
+        "Team ": "NYM",
+        "POS ": "SS"
     },
     {
         "Name": "Ian Stewart",
@@ -14296,8 +14296,8 @@
         "OBP": 0.259,
         "SLG": 0.346,
         "OPS": 0.606,
-        " Team ": "LAA",
-        " POS ": "3B"
+        "Team ": "LAA",
+        "POS ": "3B"
     },
     {
         "Name": "Ehire Adrianza",
@@ -14321,8 +14321,8 @@
         "OBP": 0.276,
         "SLG": 0.312,
         "OPS": 0.587,
-        " Team ": "SF",
-        " POS ": "2B,SS"
+        "Team ": "SF",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Brent Morel",
@@ -14346,8 +14346,8 @@
         "OBP": 0.249,
         "SLG": 0.226,
         "OPS": 0.475,
-        " Team ": "PIT",
-        " POS ": "3B"
+        "Team ": "PIT",
+        "POS ": "3B"
     },
     {
         "Name": "Andy Parrino",
@@ -14371,8 +14371,8 @@
         "OBP": 0.251,
         "SLG": 0.274,
         "OPS": 0.525,
-        " Team ": "OAK",
-        " POS ": "SS"
+        "Team ": "OAK",
+        "POS ": "SS"
     },
     {
         "Name": "Nick Evans",
@@ -14396,8 +14396,8 @@
         "OBP": 0.317,
         "SLG": 0.538,
         "OPS": 0.855,
-        " Team ": "ARI",
-        " POS ": "1B"
+        "Team ": "ARI",
+        "POS ": "1B"
     },
     {
         "Name": "Shane Peterson",
@@ -14421,8 +14421,8 @@
         "OBP": 0.321,
         "SLG": 0.254,
         "OPS": 0.574,
-        " Team ": "MIL",
-        " POS ": "1B"
+        "Team ": "MIL",
+        "POS ": "1B"
     },
     {
         "Name": "Reid Brignac",
@@ -14446,8 +14446,8 @@
         "OBP": 0.266,
         "SLG": 0.285,
         "OPS": 0.551,
-        " Team ": "PHI",
-        " POS ": "3B,SS"
+        "Team ": "PHI",
+        "POS ": "3B,SS"
     },
     {
         "Name": "Jonathan Diaz",
@@ -14471,8 +14471,8 @@
         "OBP": 0.257,
         "SLG": 0.216,
         "OPS": 0.473,
-        " Team ": "TOR",
-        " POS ": "SS,3B"
+        "Team ": "TOR",
+        "POS ": "SS,3B"
     },
     {
         "Name": "Justin Sellers",
@@ -14496,8 +14496,8 @@
         "OBP": 0.273,
         "SLG": 0.292,
         "OPS": 0.565,
-        " Team ": "PIT",
-        " POS ": "2B,SS"
+        "Team ": "PIT",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Danny Worth",
@@ -14521,8 +14521,8 @@
         "OBP": 0.254,
         "SLG": 0.228,
         "OPS": 0.482,
-        " Team ": "DET",
-        " POS ": "SS,3B"
+        "Team ": "DET",
+        "POS ": "SS,3B"
     },
     {
         "Name": "Nate Freiman",
@@ -14546,8 +14546,8 @@
         "OBP": 0.304,
         "SLG": 0.4,
         "OPS": 0.704,
-        " Team ": "OAK",
-        " POS ": "1B"
+        "Team ": "OAK",
+        "POS ": "1B"
     },
     {
         "Name": "Matt Hague",
@@ -14571,8 +14571,8 @@
         "OBP": 0.27,
         "SLG": 0.271,
         "OPS": 0.541,
-        " Team ": "TOR",
-        " POS ": "1B"
+        "Team ": "TOR",
+        "POS ": "1B"
     },
     {
         "Name": "Hector Gomez",
@@ -14596,8 +14596,8 @@
         "OBP": 0.248,
         "SLG": 0.304,
         "OPS": 0.552,
-        " Team ": "MIL",
-        " POS ": "SS"
+        "Team ": "MIL",
+        "POS ": "SS"
     },
     {
         "Name": "Daric Barton",
@@ -14621,8 +14621,8 @@
         "OBP": 0.313,
         "SLG": 0.293,
         "OPS": 0.606,
-        " Team ": "OAK",
-        " POS ": "1B"
+        "Team ": "OAK",
+        "POS ": "1B"
     },
     {
         "Name": "Josh Satin",
@@ -14646,8 +14646,8 @@
         "OBP": 0.344,
         "SLG": 0.365,
         "OPS": 0.709,
-        " Team ": "NYM",
-        " POS ": "1B"
+        "Team ": "NYM",
+        "POS ": "1B"
     },
     {
         "Name": "Dan Johnson",
@@ -14671,8 +14671,8 @@
         "OBP": 0.356,
         "SLG": 0.408,
         "OPS": 0.763,
-        " Team ": "TOR",
-        " POS ": "1B,DH"
+        "Team ": "TOR",
+        "POS ": "1B,DH"
     },
     {
         "Name": "Adam Duvall",
@@ -14696,8 +14696,8 @@
         "OBP": 0.246,
         "SLG": 0.35,
         "OPS": 0.596,
-        " Team ": "SF",
-        " POS ": "1B"
+        "Team ": "SF",
+        "POS ": "1B"
     },
     {
         "Name": "Clint Robinson",
@@ -14721,8 +14721,8 @@
         "OBP": 0.333,
         "SLG": 0.298,
         "OPS": 0.631,
-        " Team ": "LAD",
-        " POS ": "1B"
+        "Team ": "LAD",
+        "POS ": "1B"
     },
     {
         "Name": "Christian Walker",
@@ -14746,8 +14746,8 @@
         "OBP": 0.295,
         "SLG": 0.394,
         "OPS": 0.689,
-        " Team ": "BAL",
-        " POS ": "1B"
+        "Team ": "BAL",
+        "POS ": "1B"
     },
     {
         "Name": "Jason Giambi",
@@ -14771,8 +14771,8 @@
         "OBP": 0.301,
         "SLG": 0.371,
         "OPS": 0.672,
-        " Team ": "CLE",
-        " POS ": "DH"
+        "Team ": "CLE",
+        "POS ": "DH"
     },
     {
         "Name": "Jesus Aguilar",
@@ -14796,8 +14796,8 @@
         "OBP": 0.278,
         "SLG": 0.285,
         "OPS": 0.563,
-        " Team ": "CLE",
-        " POS ": "1B"
+        "Team ": "CLE",
+        "POS ": "1B"
     },
     {
         "Name": "Neftali Soto",
@@ -14821,8 +14821,8 @@
         "OBP": 0.176,
         "SLG": 0.19,
         "OPS": 0.366,
-        " Team ": "CIN",
-        " POS ": "1B"
+        "Team ": "CIN",
+        "POS ": "1B"
     },
     {
         "Name": "Miguel Sano",
@@ -14846,8 +14846,8 @@
         "OBP": 0.3,
         "SLG": 0.467,
         "OPS": 0.767,
-        " Team ": "MIN",
-        " POS ": "3B,SS"
+        "Team ": "MIN",
+        "POS ": "3B,SS"
     },
     {
         "Name": "Jose Iglesias",
@@ -14871,8 +14871,8 @@
         "OBP": 0.293,
         "SLG": 0.333,
         "OPS": 0.627,
-        " Team ": "DET",
-        " POS ": "3B,SS"
+        "Team ": "DET",
+        "POS ": "3B,SS"
     },
     {
         "Name": "Andres Blanco",
@@ -14896,8 +14896,8 @@
         "OBP": 0.283,
         "SLG": 0.354,
         "OPS": 0.637,
-        " Team ": "PHI",
-        " POS ": "3B,SS"
+        "Team ": "PHI",
+        "POS ": "3B,SS"
     },
     {
         "Name": "Brooks Conrad",
@@ -14921,8 +14921,8 @@
         "OBP": 0.214,
         "SLG": 0.332,
         "OPS": 0.546,
-        " Team ": "SD",
-        " POS ": "2B,3B"
+        "Team ": "SD",
+        "POS ": "2B,3B"
     },
     {
         "Name": "Chris Young",
@@ -14946,8 +14946,8 @@
         "OBP": 0.294,
         "SLG": 0.4,
         "OPS": 0.694,
-        " Team ": "NYY",
-        " POS ": "LF,CF,RF"
+        "Team ": "NYY",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Zachary Walters",
@@ -14971,8 +14971,8 @@
         "OBP": 0.27,
         "SLG": 0.442,
         "OPS": 0.712,
-        " Team ": "CLE",
-        " POS ": "DH,3B"
+        "Team ": "CLE",
+        "POS ": "DH,3B"
     },
     {
         "Name": "Dalton Pompey",
@@ -14996,8 +14996,8 @@
         "OBP": 0.307,
         "SLG": 0.39,
         "OPS": 0.697,
-        " Team ": "TOR",
-        " POS ": "LF,CF"
+        "Team ": "TOR",
+        "POS ": "LF,CF"
     },
     {
         "Name": "Chris Taylor",
@@ -15021,8 +15021,8 @@
         "OBP": 0.317,
         "SLG": 0.345,
         "OPS": 0.662,
-        " Team ": "SEA",
-        " POS ": "SS"
+        "Team ": "SEA",
+        "POS ": "SS"
     },
     {
         "Name": "Matt Duffy",
@@ -15046,8 +15046,8 @@
         "OBP": 0.298,
         "SLG": 0.313,
         "OPS": 0.611,
-        " Team ": "SF",
-        " POS ": "3B"
+        "Team ": "SF",
+        "POS ": "3B"
     },
     {
         "Name": "Micah Johnson",
@@ -15071,8 +15071,8 @@
         "OBP": 0.298,
         "SLG": 0.355,
         "OPS": 0.652,
-        " Team ": "CWS",
-        " POS ": "2B"
+        "Team ": "CWS",
+        "POS ": "2B"
     },
     {
         "Name": "Terrance Gore",
@@ -15096,8 +15096,8 @@
         "OBP": 0.27,
         "SLG": 0.149,
         "OPS": 0.42,
-        " Team ": "KC",
-        " POS ": "LF"
+        "Team ": "KC",
+        "POS ": "LF"
     },
     {
         "Name": "Dilson Herrera",
@@ -15121,8 +15121,8 @@
         "OBP": 0.303,
         "SLG": 0.402,
         "OPS": 0.705,
-        " Team ": "NYM",
-        " POS ": "2B"
+        "Team ": "NYM",
+        "POS ": "2B"
     },
     {
         "Name": "Jose Peraza",
@@ -15146,8 +15146,8 @@
         "OBP": 0.296,
         "SLG": 0.336,
         "OPS": 0.633,
-        " Team ": "ATL",
-        " POS ": "SS,2B"
+        "Team ": "ATL",
+        "POS ": "SS,2B"
     },
     {
         "Name": "Rusney Castillo",
@@ -15171,8 +15171,8 @@
         "OBP": 0.323,
         "SLG": 0.447,
         "OPS": 0.77,
-        " Team ": "BOS",
-        " POS ": "CF,LF"
+        "Team ": "BOS",
+        "POS ": "CF,LF"
     },
     {
         "Name": "J.T. Realmuto",
@@ -15196,8 +15196,8 @@
         "OBP": 0.283,
         "SLG": 0.347,
         "OPS": 0.629,
-        " Team ": "MIA",
-        " POS ": "C"
+        "Team ": "MIA",
+        "POS ": "C"
     },
     {
         "Name": "Dan Butler",
@@ -15221,8 +15221,8 @@
         "OBP": 0.279,
         "SLG": 0.364,
         "OPS": 0.643,
-        " Team ": "WSH",
-        " POS ": "C"
+        "Team ": "WSH",
+        "POS ": "C"
     },
     {
         "Name": "Jose Pirela",
@@ -15246,8 +15246,8 @@
         "OBP": 0.306,
         "SLG": 0.447,
         "OPS": 0.753,
-        " Team ": "NYY",
-        " POS ": "2B,SS"
+        "Team ": "NYY",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Aledmys Diaz",
@@ -15271,8 +15271,8 @@
         "OBP": 0.284,
         "SLG": 0.364,
         "OPS": 0.648,
-        " Team ": "STL",
-        " POS ": "SS"
+        "Team ": "STL",
+        "POS ": "SS"
     },
     {
         "Name": "Tyler Collins",
@@ -15296,8 +15296,8 @@
         "OBP": 0.294,
         "SLG": 0.379,
         "OPS": 0.673,
-        " Team ": "DET",
-        " POS ": "RF"
+        "Team ": "DET",
+        "POS ": "RF"
     },
     {
         "Name": "Yangervis Solarte",
@@ -15321,8 +15321,8 @@
         "OBP": 0.326,
         "SLG": 0.361,
         "OPS": 0.687,
-        " Team ": "SD",
-        " POS ": "2B,3B"
+        "Team ": "SD",
+        "POS ": "2B,3B"
     },
     {
         "Name": "Jace Peterson",
@@ -15346,8 +15346,8 @@
         "OBP": 0.259,
         "SLG": 0.217,
         "OPS": 0.476,
-        " Team ": "ATL",
-        " POS ": "2B,3B,SS"
+        "Team ": "ATL",
+        "POS ": "2B,3B,SS"
     },
     {
         "Name": "Caleb Joseph",
@@ -15371,8 +15371,8 @@
         "OBP": 0.27,
         "SLG": 0.362,
         "OPS": 0.632,
-        " Team ": "BAL",
-        " POS ": "C"
+        "Team ": "BAL",
+        "POS ": "C"
     },
     {
         "Name": "Eric Campbell",
@@ -15396,8 +15396,8 @@
         "OBP": 0.321,
         "SLG": 0.36,
         "OPS": 0.681,
-        " Team ": "NYM",
-        " POS ": "1B,3B,LF"
+        "Team ": "NYM",
+        "POS ": "1B,3B,LF"
     },
     {
         "Name": "Cole Figueroa",
@@ -15421,8 +15421,8 @@
         "OBP": 0.307,
         "SLG": 0.328,
         "OPS": 0.635,
-        " Team ": "TB",
-        " POS ": "2B,SS"
+        "Team ": "TB",
+        "POS ": "2B,SS"
     },
     {
         "Name": "Erisbel Arruebarrena",
@@ -15446,8 +15446,8 @@
         "OBP": 0.246,
         "SLG": 0.256,
         "OPS": 0.502,
-        " Team ": "LAD",
-        " POS ": "IF"
+        "Team ": "LAD",
+        "POS ": "IF"
     },
     {
         "Name": "Ali Solis",
@@ -15471,8 +15471,8 @@
         "OBP": 0,
         "SLG": 0,
         "OPS": 0,
-        " Team ": "TB",
-        " POS ": "C"
+        "Team ": "TB",
+        "POS ": "C"
     },
     {
         "Name": "Jamie Romak",
@@ -15496,8 +15496,8 @@
         "OBP": 0.13,
         "SLG": 0.095,
         "OPS": 0.225,
-        " Team ": "LAD",
-        " POS ": "RF,LF"
+        "Team ": "LAD",
+        "POS ": "RF,LF"
     },
     {
         "Name": "David Peralta",
@@ -15521,8 +15521,8 @@
         "OBP": 0.308,
         "SLG": 0.413,
         "OPS": 0.721,
-        " Team ": "ARI",
-        " POS ": "LF,CF,RF"
+        "Team ": "ARI",
+        "POS ": "LF,CF,RF"
     },
     {
         "Name": "Justin Bour",
@@ -15546,8 +15546,8 @@
         "OBP": 0.324,
         "SLG": 0.385,
         "OPS": 0.709,
-        " Team ": "MIA",
-        " POS ": "1B"
+        "Team ": "MIA",
+        "POS ": "1B"
     },
     {
         "Name": "Miguel Rojas",
@@ -15571,8 +15571,8 @@
         "OBP": 0.245,
         "SLG": 0.254,
         "OPS": 0.499,
-        " Team ": "MIA",
-        " POS ": "3B,SS"
+        "Team ": "MIA",
+        "POS ": "3B,SS"
     },
     {
         "Name": "Brad Snyder",
@@ -15596,8 +15596,8 @@
         "OBP": 0.254,
         "SLG": 0.374,
         "OPS": 0.628,
-        " Team ": "TEX",
-        " POS ": "1B,LF"
+        "Team ": "TEX",
+        "POS ": "1B,LF"
     },
     {
         "Name": "Jackson Williams",
@@ -15621,8 +15621,8 @@
         "OBP": 0.286,
         "SLG": 0.385,
         "OPS": 0.671,
-        " Team ": "COL",
-        " POS ": "C"
+        "Team ": "COL",
+        "POS ": "C"
     },
     {
         "Name": "Jake Goebbert",
@@ -15646,8 +15646,8 @@
         "OBP": 0.303,
         "SLG": 0.356,
         "OPS": 0.659,
-        " Team ": "SD",
-        " POS ": "1B"
+        "Team ": "SD",
+        "POS ": "1B"
     },
     {
         "Name": "Brad Glenn",
@@ -15671,8 +15671,8 @@
         "OBP": 0.125,
         "SLG": 0.067,
         "OPS": 0.192,
-        " Team ": "TOR",
-        " POS ": "RF,3B"
+        "Team ": "TOR",
+        "POS ": "RF,3B"
     },
     {
         "Name": "Nick Ahmed",
@@ -15696,8 +15696,8 @@
         "OBP": 0.27,
         "SLG": 0.302,
         "OPS": 0.573,
-        " Team ": "ARI",
-        " POS ": "SS"
+        "Team ": "ARI",
+        "POS ": "SS"
     },
     {
         "Name": "Enrique Hernandez",
@@ -15721,8 +15721,8 @@
         "OBP": 0.313,
         "SLG": 0.393,
         "OPS": 0.707,
-        " Team ": "LAD",
-        " POS ": "LF,CF,2B"
+        "Team ": "LAD",
+        "POS ": "LF,CF,2B"
     },
     {
         "Name": "Zelous Wheeler",
@@ -15746,8 +15746,8 @@
         "OBP": 0.228,
         "SLG": 0.333,
         "OPS": 0.561,
-        " Team ": "NYY",
-        " POS ": "3B,RF"
+        "Team ": "NYY",
+        "POS ": "3B,RF"
     },
     {
         "Name": "Tyler Holt",
@@ -15771,8 +15771,8 @@
         "OBP": 0.301,
         "SLG": 0.29,
         "OPS": 0.591,
-        " Team ": "CLE",
-        " POS ": "RF,LF"
+        "Team ": "CLE",
+        "POS ": "RF,LF"
     },
     {
         "Name": "Jake Smolinski",
@@ -15796,8 +15796,8 @@
         "OBP": 0.318,
         "SLG": 0.429,
         "OPS": 0.747,
-        " Team ": "TEX",
-        " POS ": "LF,RF,3B"
+        "Team ": "TEX",
+        "POS ": "LF,RF,3B"
     },
     {
         "Name": "Roberto Perez",
@@ -15821,8 +15821,8 @@
         "OBP": 0.298,
         "SLG": 0.333,
         "OPS": 0.631,
-        " Team ": "CLE",
-        " POS ": "C"
+        "Team ": "CLE",
+        "POS ": "C"
     },
     {
         "Name": "Philip Gosselin",
@@ -15846,8 +15846,8 @@
         "OBP": 0.284,
         "SLG": 0.339,
         "OPS": 0.623,
-        " Team ": "ATL",
-        " POS ": "IF"
+        "Team ": "ATL",
+        "POS ": "IF"
     },
     {
         "Name": "Curt Casali",
@@ -15871,8 +15871,8 @@
         "OBP": 0.276,
         "SLG": 0.257,
         "OPS": 0.533,
-        " Team ": "TB",
-        " POS ": "C"
+        "Team ": "TB",
+        "POS ": "C"
     },
     {
         "Name": "Ben Paulsen",
@@ -15896,8 +15896,8 @@
         "OBP": 0.328,
         "SLG": 0.505,
         "OPS": 0.832,
-        " Team ": "COL",
-        " POS ": "1B"
+        "Team ": "COL",
+        "POS ": "1B"
     },
     {
         "Name": "Gregorio Petit",
@@ -15921,8 +15921,8 @@
         "OBP": 0.288,
         "SLG": 0.402,
         "OPS": 0.69,
-        " Team ": "HOU",
-        " POS ": "3B,SS,2B"
+        "Team ": "HOU",
+        "POS ": "3B,SS,2B"
     },
     {
         "Name": "Andrew Susac",
@@ -15946,8 +15946,8 @@
         "OBP": 0.309,
         "SLG": 0.396,
         "OPS": 0.705,
-        " Team ": "SF",
-        " POS ": "C"
+        "Team ": "SF",
+        "POS ": "C"
     },
     {
         "Name": "Billy Burns",
@@ -15971,8 +15971,8 @@
         "OBP": 0.289,
         "SLG": 0.225,
         "OPS": 0.514,
-        " Team ": "OAK",
-        " POS ": "CF"
+        "Team ": "OAK",
+        "POS ": "CF"
     },
     {
         "Name": "Jake Lamb",
@@ -15996,8 +15996,8 @@
         "OBP": 0.305,
         "SLG": 0.402,
         "OPS": 0.707,
-        " Team ": "ARI",
-        " POS ": "3B"
+        "Team ": "ARI",
+        "POS ": "3B"
     },
     {
         "Name": "Matt McBride",
@@ -16021,8 +16021,8 @@
         "OBP": 0.259,
         "SLG": 0.379,
         "OPS": 0.638,
-        " Team ": "COL",
-        " POS ": "1B,LF,RF"
+        "Team ": "COL",
+        "POS ": "1B,LF,RF"
     },
     {
         "Name": "Tomas Telis",
@@ -16046,8 +16046,8 @@
         "OBP": 0.271,
         "SLG": 0.31,
         "OPS": 0.581,
-        " Team ": "TEX",
-        " POS ": "C"
+        "Team ": "TEX",
+        "POS ": "C"
     },
     {
         "Name": "Andy Wilkins",
@@ -16071,8 +16071,8 @@
         "OBP": 0.257,
         "SLG": 0.302,
         "OPS": 0.558,
-        " Team ": "CWS",
-        " POS ": "1B"
+        "Team ": "CWS",
+        "POS ": "1B"
     },
     {
         "Name": "Chris Dominguez",
@@ -16096,8 +16096,8 @@
         "OBP": 0.111,
         "SLG": 0.235,
         "OPS": 0.346,
-        " Team ": "SF",
-        " POS ": "LF,3B"
+        "Team ": "SF",
+        "POS ": "LF,3B"
     },
     {
         "Name": "James McCann",
@@ -16121,8 +16121,8 @@
         "OBP": 0.28,
         "SLG": 0.348,
         "OPS": 0.628,
-        " Team ": "DET",
-        " POS ": "C"
+        "Team ": "DET",
+        "POS ": "C"
     },
     {
         "Name": "Shawn O'Malley",
@@ -16146,8 +16146,8 @@
         "OBP": 0.188,
         "SLG": 0.188,
         "OPS": 0.376,
-        " Team ": "LAA",
-        " POS ": "IF"
+        "Team ": "LAA",
+        "POS ": "IF"
     },
     {
         "Name": "Rafael Ynoa",
@@ -16171,8 +16171,8 @@
         "OBP": 0.333,
         "SLG": 0.391,
         "OPS": 0.724,
-        " Team ": "COL",
-        " POS ": "3B,2B"
+        "Team ": "COL",
+        "POS ": "3B,2B"
     },
     {
         "Name": "Matt Pagnozzi",
@@ -16196,8 +16196,8 @@
         "OBP": 0.217,
         "SLG": 0.184,
         "OPS": 0.401,
-        " Team ": "MIL",
-        " POS ": "C"
+        "Team ": "MIL",
+        "POS ": "C"
     },
     {
         "Name": "Rafael Lopez",
@@ -16221,8 +16221,8 @@
         "OBP": 0.322,
         "SLG": 0.218,
         "OPS": 0.54,
-        " Team ": "CHC",
-        " POS ": "C"
+        "Team ": "CHC",
+        "POS ": "C"
     },
     {
         "Name": "Doug Bernier",
@@ -16246,8 +16246,8 @@
         "OBP": 0.31,
         "SLG": 0.295,
         "OPS": 0.605,
-        " Team ": "MIN",
-        " POS ": "SS"
+        "Team ": "MIN",
+        "POS ": "SS"
     },
     {
         "Name": "Antoan Richardson",
@@ -16271,8 +16271,8 @@
         "OBP": 0.333,
         "SLG": 0.294,
         "OPS": 0.627,
-        " Team ": "NYY",
-        " POS ": "RF,CF"
+        "Team ": "NYY",
+        "POS ": "RF,CF"
     },
     {
         "Name": "Matt Clark",
@@ -16296,8 +16296,8 @@
         "OBP": 0.284,
         "SLG": 0.474,
         "OPS": 0.758,
-        " Team ": "MIL",
-        " POS ": "1B"
+        "Team ": "MIL",
+        "POS ": "1B"
     },
     {
         "Name": "Xavier Scruggs",
@@ -16321,8 +16321,8 @@
         "OBP": 0.295,
         "SLG": 0.338,
         "OPS": 0.633,
-        " Team ": "STL",
-        " POS ": "1B"
+        "Team ": "STL",
+        "POS ": "1B"
     },
     {
         "Name": "Guilder Rodriguez",
@@ -16346,8 +16346,8 @@
         "OBP": 0.278,
         "SLG": 0.191,
         "OPS": 0.469,
-        " Team ": "TEX",
-        " POS ": "3B,SS"
+        "Team ": "TEX",
+        "POS ": "3B,SS"
     },
     {
         "Name": "Giovanny Urshela",
@@ -16371,8 +16371,8 @@
         "OBP": 0.285,
         "SLG": 0.364,
         "OPS": 0.649,
-        " Team ": "CLE",
-        " POS ": "3B"
+        "Team ": "CLE",
+        "POS ": "3B"
     },
     {
         "Name": "Tony Wolters",
@@ -16396,8 +16396,8 @@
         "OBP": 0.281,
         "SLG": 0.309,
         "OPS": 0.59,
-        " Team ": "CLE",
-        " POS ": "C"
+        "Team ": "CLE",
+        "POS ": "C"
     },
     {
         "Name": "Brandon Drury",
@@ -16421,8 +16421,8 @@
         "OBP": 0.288,
         "SLG": 0.368,
         "OPS": 0.656,
-        " Team ": "ARI",
-        " POS ": "SS,3B"
+        "Team ": "ARI",
+        "POS ": "SS,3B"
     },
     {
         "Name": "Socrates Brito",
@@ -16446,8 +16446,8 @@
         "OBP": 0.254,
         "SLG": 0.332,
         "OPS": 0.586,
-        " Team ": "ARI",
-        " POS ": "LF,CF"
+        "Team ": "ARI",
+        "POS ": "LF,CF"
     },
     {
         "Name": "Austin Barnes",
@@ -16471,8 +16471,8 @@
         "OBP": 0.309,
         "SLG": 0.349,
         "OPS": 0.658,
-        " Team ": "LAD",
-        " POS ": "C"
+        "Team ": "LAD",
+        "POS ": "C"
     },
     {
         "Name": "Yasmany Tomas",
@@ -16496,8 +16496,8 @@
         "OBP": 0.289,
         "SLG": 0.422,
         "OPS": 0.71,
-        " Team ": "ARI",
-        " POS ": "3B,RF"
+        "Team ": "ARI",
+        "POS ": "3B,RF"
     },
     {
         "Name": "Odubel Herrera",
@@ -16521,8 +16521,8 @@
         "OBP": 0.289,
         "SLG": 0.325,
         "OPS": 0.613,
-        " Team ": "PHI",
-        " POS ": "2B"
+        "Team ": "PHI",
+        "POS ": "2B"
     },
     {
         "Name": "Oscar Hernandez",
@@ -16546,8 +16546,8 @@
         "OBP": 0.263,
         "SLG": 0.349,
         "OPS": 0.611,
-        " Team ": "ARI",
-        " POS ": "C"
+        "Team ": "ARI",
+        "POS ": "C"
     },
     {
         "Name": "Mark Canha",
@@ -16571,7 +16571,7 @@
         "OBP": 0.309,
         "SLG": 0.385,
         "OPS": 0.694,
-        " Team ": "OAK",
-        " POS ": "LF,1B"
+        "Team ": "OAK",
+        "POS ": "LF,1B"
     }
 ]
