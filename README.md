@@ -1,5 +1,11 @@
-# projections
+# Fantasy baseball projections processing
 
-http://konklone.io/json/
-http://shancarter.github.io/mr-data-converter/
-http://jsonlint.com/
+###Online web tools used:
+
+* [JsonToCsv] - Convert JSON to Comma Separated Values
+* [CsvToJson] - Convert Comma Separated Values to JSON
+* [JsonLint] - Online JSON Validator
+
+[JsonToCsv]:http://konklone.io/json/
+[CsvToJson]:http://shancarter.github.io/mr-data-converter/
+[JSONLint]:http://jsonlint.com/
